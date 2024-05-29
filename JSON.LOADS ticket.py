@@ -6,7 +6,7 @@ import numpy
 import pandas as pd
 from itertools import zip_longest
 #url loading and get
-url = 'https://www.realclearpolling.com/polls/president/general/2020/maryland/trump-vs-biden#polls'
+url = 'https://www.realclearpolling.com/polls/governor/general/2014/maryland/hogan-vs-brown'
 page = requests.get(url)
 
 #check and return code
@@ -52,9 +52,23 @@ pollster_data = re.findall(pollster_pattern, json_str)
 date_data = re.findall(date_pattern, json_str)
 sample_size_data = re.findall(sample_size_pattern, json_str)
 margin_error_data = re.findall(margin_error_pattern, json_str)
-dvalue_data = re.findall(dvalue_pattern, json_str)
-rvalue_data = re.findall(rvalue_pattern, json_str)
+
 link_data = re.findall(link_pattern, json_str)
+
+dvalue_pattern1 = r'"candidate":\[{"name":"([^"]*?)","affiliation":"Democrat","value":"([^"]*)"'
+dvalue_pattern2 = r'"candidate":\[{[^}]*},{"name":"([^"]*?)","affiliation":"Democrat","value":"([^"]*)"'
+
+rvalue_pattern1 = r'"candidate":\[{[^}]*},{"name":"([^"]*?)","affiliation":"Republican","value":"([^"]*)"'
+rvalue_pattern2 = r'"candidate":\[{"name":"([^"]*?)","affiliation":"Republican","value":"([^"]*)"'
+
+#race_pattern = r'"https://www.realclearpolling.com/polls/([^"]*?)"'
+#race_value = re.findall(race_pattern, url)
+
+
+dvalue_data = re.findall(dvalue_pattern1, json_str) or re.findall(dvalue_pattern2, json_str)
+rvalue_data = re.findall(rvalue_pattern1, json_str) or re.findall(rvalue_pattern2, json_str)
+
+
 
 print(rvalue_data)
 
@@ -82,36 +96,3 @@ df_revised2 = df_revised.dropna(subset=['pollster'])
 print(df_revised2)
 
 df_final = df_revised2.to_csv()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
