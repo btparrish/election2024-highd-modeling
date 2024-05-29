@@ -1,10 +1,10 @@
 import requests
 import re
-from bs4 import BeautifulSoup #data scraper package
+from bs4 import BeautifulSoup 
 import numpy
 import pandas as pd
 from itertools import zip_longest
-#url loading and get
+
 url = 'https://www.realclearpolling.com/polls/president/general/2024/trump-vs-biden'
 
 def get_national2024_data(url):
@@ -19,10 +19,9 @@ def get_national2024_data(url):
         print("Failed to retrieve. Status Code was", page.status_code)
         exit()
 
-    soup = BeautifulSoup(page.content, "html.parser") #EVERYTHING
+    soup = BeautifulSoup(page.content, "html.parser") 
 
     script_tags = soup.find_all('script')
-
 
     for script in script_tags:
         if script.string and 'finalData' in script.string:
@@ -35,26 +34,18 @@ def get_national2024_data(url):
     json = json.loads(str3)
 
     json_str = json[1] 
-    print(json_str)
 
     #search pattern index
     pollster_pattern = r'"pollster":\s*"([^"]*)"'
     date_pattern = r'"date":\s*"([^"]*)"'
     sample_size_pattern = r'"sampleSize":\s*"([^"]*)"'
     margin_error_pattern = r'"marginError":\s*"([^"]*)"'
-    dvalue_pattern = r'"candidate":\[{"name":"Biden","affiliation":"Democrat","value":"([^"]*)"'
-    rvalue_pattern = r'"candidate":\[{[^}]*},{"name":"Trump","affiliation":"Republican","value":"([^"]*)"'
     link_pattern = r'"link":\s*"([^"]*)"'
-
-
-
-
 
     pollster_data = re.findall(pollster_pattern, json_str)
     date_data = re.findall(date_pattern, json_str)
     sample_size_data = re.findall(sample_size_pattern, json_str)
     margin_error_data = re.findall(margin_error_pattern, json_str)
-
     link_data = re.findall(link_pattern, json_str)
 
     dvalue_pattern1 = r'"candidate":\[{"name":"([^"]*?)","affiliation":"Democrat","value":"([^"]*)"'
@@ -75,21 +66,12 @@ def get_national2024_data(url):
             "marginError": row[3],
             "dvalue": row[4],
             "rvalue": row[5],
-
-
         })
 
     df = pd.DataFrame(data_rows)
 
-    df_revised = df.drop_duplicates()
-
-    df_revised2 = df_revised.dropna(subset=['pollster'])
-
-    return df_revised2
+    df = df.drop_duplicates().dropna(subset=['pollster'])
+    return df
 
 df_national = get_national2024_data(url)
     
-print(df_national.to_string(index=False))
-
-csv_file_path = r'2024_RCP_National.csv'
-df_national.to_csv(csv_file_path, index=False)
