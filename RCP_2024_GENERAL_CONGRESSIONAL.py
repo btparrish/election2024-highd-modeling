@@ -1,10 +1,9 @@
 import requests
 import re
-from bs4 import BeautifulSoup #data scraper package
+from bs4 import BeautifulSoup 
 import numpy
 import pandas as pd
 from itertools import zip_longest
-#url loading and get
 url = 'https://www.realclearpolling.com/polls/state-of-the-union/2024/generic-congressional-vote'
 
 def get_generalongressional2024_data(url):
@@ -19,7 +18,7 @@ def get_generalongressional2024_data(url):
         print("Failed to retrieve. Status Code was", page.status_code)
         exit()
 
-    soup = BeautifulSoup(page.content, "html.parser") #EVERYTHING
+    soup = BeautifulSoup(page.content, "html.parser") 
 
     script_tags = soup.find_all('script')
 
@@ -45,10 +44,6 @@ def get_generalongressional2024_data(url):
     dvalue_pattern = r'"candidate":\[{"name":"Biden","affiliation":"Democrat","value":"([^"]*)"'
     rvalue_pattern = r'"candidate":\[{[^}]*},{"name":"Trump","affiliation":"Republican","value":"([^"]*)"'
     link_pattern = r'"link":\s*"([^"]*)"'
-
-
-
-
 
     pollster_data = re.findall(pollster_pattern, json_str)
     date_data = re.findall(date_pattern, json_str)
@@ -80,16 +75,8 @@ def get_generalongressional2024_data(url):
         })
 
     df = pd.DataFrame(data_rows)
-
-    df_revised = df.drop_duplicates()
-
-    df_revised2 = df_revised.dropna(subset=['pollster'])
-
-    return df_revised2
+    df = df.drop_duplicates().dropna(subset=['pollster'])
+    return df
 
 df_national = get_generalongressional2024_data(url)
     
-print(df_national.to_string(index=False))
-
-csv_file_path = r'2024_RCP_National.csv'
-df_national.to_csv(csv_file_path, index=False)
