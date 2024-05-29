@@ -5,11 +5,10 @@ import numpy
 import pandas as pd
 from itertools import zip_longest
 #url loading and get
-url = 'https://www.realclearpolling.com/polls/president/general/2020/trump-vs-biden'
+url = 'https://www.realclearpolling.com/polls/president/general/2024/trump-vs-biden'
 
 def get_national2024_data(url):
     import json
-    url = 'https://www.realclearpolling.com/polls/president/general/2020/trump-vs-biden'
     page = requests.get(url)
 
     #check and return code
