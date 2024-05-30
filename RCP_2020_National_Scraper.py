@@ -7,7 +7,7 @@ from itertools import zip_longest
 
 url = 'https://www.realclearpolling.com/polls/president/general/2020/trump-vs-biden'
 
-def get_national2024_data(url):
+def get_national2020_data(url):
     import json
     page = requests.get(url)
 
@@ -77,7 +77,7 @@ def get_national2024_data(url):
 
     return df
 
-df_national = get_national2024_data(url)
+df_national = get_national2020_data(url)
 
 #print(df_national.to_string(index=False))
     
