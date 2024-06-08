@@ -3979,6 +3979,6 @@ for year, elections in master_url.items(): #year
 all_df = pd.concat(all_df_list, ignore_index=True)
 
 
-filename = "C:\Users\lukem\Documents\C files\RCP SCRAPERS\luke.csv"
+filename = "C:/Users/lukem/Documents/C files/RCP SCRAPERS/luke.csv"
 all_df.to_csv(filename, index=False)
 print("written")
