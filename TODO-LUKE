@@ -1,0 +1,8 @@
+--TODO--
+
+-data cleanser ['date'] 
+-final value column merge
+-winner value column merge
+-strip RV/LV/A from congressional data
+-remove unnecessary regex to lesson error on clean_data()
+-fill in empty cell values on excel
