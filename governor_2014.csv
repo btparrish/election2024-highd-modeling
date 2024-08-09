@@ -1,0 +1,746 @@
+pollster,date,sampleSize,marginError,dvalue,rvalue,state,Year,Type
+rcp_average,2014-10-23,,,28.5,59.0,Alabama,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,661.0,6.0,25.0,63.0,Alabama,2014,Governor
+Rasmussen Reports,2014-06-10,750.0,4.0,32.0,55.0,Alabama,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,692.0,4.0,28.0,65.0,Alabama,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,741.0,5.0,28.0,62.0,Alabama,2014,Governor
+CBS News/NYT/YouGov,2014-07-24,,,31.0,59.0,Alabama,2014,Governor
+rcp_average,,,,28.5,59.0,Alabama,2014,Governor
+rcp_average,2014-10-23,,,41.0,48.5,Arizona,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,2621.0,4.0,40.0,50.0,Arizona,2014,Governor
+Rasmussen Reports,2014-10-16,1056.0,3.0,42.0,47.0,Arizona,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,2808.0,3.0,39.0,50.0,Arizona,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,3289.0,3.0,38.0,39.0,Arizona,2014,Governor
+Rasmussen Reports,2014-08-28,850.0,3.0,40.0,40.0,Arizona,2014,Governor
+PPP (D),2014-03-02,,3.3,36.0,35.0,Arizona,2014,Governor
+Behavior Research Center,2014-01-26,,3.8,23.0,21.0,Arizona,2014,Governor
+Susquehanna,2014-12-04,,4.0,33.0,36.0,Arizona,2014,Governor
+rcp_average,,,,41.0,48.5,Arizona,2014,Governor
+rcp_average,2014-11-01,,,41.0,49.0,Arkansas,2014,Governor
+PPP (D)*,2014-11-01,1092.0,3.0,41.0,51.0,Arkansas,2014,Governor
+The Arkansas Poll,2014-10-27,568.0,4.1,39.0,50.0,Arkansas,2014,Governor
+Rasmussen Reports,2014-10-29,967.0,3.0,43.0,50.0,Arkansas,2014,Governor
+NBC News/Marist*,2014-10-23,621.0,3.9,44.0,47.0,Arkansas,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,1567.0,4.0,38.0,47.0,Arkansas,2014,Governor
+Talk Business Poll*,2014-10-16,2075.0,2.2,41.0,49.0,Arkansas,2014,Governor
+Rasmussen Reports,2014-10-15,940.0,3.0,47.0,49.0,Arkansas,2014,Governor
+FOX News*,2014-10-07,707.0,3.5,37.0,46.0,Arkansas,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,1991.0,2.0,38.0,49.0,Arkansas,2014,Governor
+Rasmussen Reports,2014-09-25,750.0,4.0,42.0,46.0,Arkansas,2014,Governor
+USA Today/Suffolk*,2014-09-23,500.0,4.4,41.0,43.0,Arkansas,2014,Governor
+PPP (D),2014-09-21,1453.0,2.6,40.0,46.0,Arkansas,2014,Governor
+NBC News/Marist*,2014-09-04,639.0,3.9,39.0,48.0,Arkansas,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,1572.0,3.0,38.0,45.0,Arkansas,2014,Governor
+Rasmussen Reports,2014-08-26,750.0,4.0,46.0,44.0,Arkansas,2014,Governor
+PPP (D),2014-08-03,,3.0,40.0,46.0,Arkansas,2014,Governor
+Talk Business Poll*,2014-07-25,1780.0,2.3,41.0,46.0,Arkansas,2014,Governor
+CBS News/NYT/YouGov,2014-07-24,,,45.0,48.0,Arkansas,2014,Governor
+Rasmussen Reports,2014-05-28,750.0,4.0,41.0,48.0,Arkansas,2014,Governor
+NBC News/Marist,2014-05-04,,3.3,42.0,49.0,Arkansas,2014,Governor
+PPP (D),2014-04-27,,3.4,38.0,46.0,Arkansas,2014,Governor
+NY Times/Kaiser,2014-04-15,,4.0,40.0,41.0,Arkansas,2014,Governor
+Talk Business Poll*,2014-04-04,1068.0,3.0,44.0,43.0,Arkansas,2014,Governor
+Opinion Research Associates,2014-04-08,,5.0,45.0,39.0,Arkansas,2014,Governor
+Impact Management Group (R),2014-02-10,,2.8,42.0,42.0,Arkansas,2014,Governor
+Rasmussen Reports,2014-02-05,500.0,4.5,44.0,41.0,Arkansas,2014,Governor
+Impact Management Group (R),2014-10-24,,3.2,37.0,40.0,Arkansas,2014,Governor
+The Arkansas Poll,2014-10-17,,,31.0,35.0,Arkansas,2014,Governor
+Talk Business Poll,2014-10-08,603.0,4.0,37.0,41.0,Arkansas,2014,Governor
+Harper (R),2014-08-05,587.0,4.0,38.0,46.0,Arkansas,2014,Governor
+Talk Business Poll,2014-02-20,,3.8,38.0,43.0,Arkansas,2014,Governor
+rcp_average,,,,41.0,49.0,Arkansas,2014,Governor
+rcp_average,2014-10-29,,,54.3,35.8,California,2014,Governor
+LA Times/USC,2014-10-29,1162.0,3.3,56.0,37.0,California,2014,Governor
+Field,2014-10-28,941.0,3.4,54.0,33.0,California,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,7463.0,2.0,55.0,37.0,California,2014,Governor
+PPIC,2014-10-19,976.0,4.6,52.0,36.0,California,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,7943.0,2.0,56.0,36.0,California,2014,Governor
+PPIC,2014-09-15,916.0,4.9,54.0,33.0,California,2014,Governor
+LA Times/USC,2014-09-08,1089.0,3.3,57.0,36.0,California,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,8941.0,2.0,53.0,35.0,California,2014,Governor
+Field,2014-08-28,467.0,4.8,50.0,34.0,California,2014,Governor
+CBS News/NYT/YouGov,2014-07-24,,,57.0,33.0,California,2014,Governor
+PPIC,2014-07-15,984.0,4.7,52.0,33.0,California,2014,Governor
+Field,2014-06-22,982.0,3.2,52.0,32.0,California,2014,Governor
+Rasmussen Reports,2014-06-05,823.0,4.0,52.0,33.0,California,2014,Governor
+LA Times/USC,2014-05-28,626.0,,53.0,35.0,California,2014,Governor
+rcp_average,,,,54.3,35.8,California,2014,Governor
+rcp_average,2014-11-02,,,45.3,44.8,Colorado,2014,Governor
+PPP (D)*,2014-11-02,739.0,3.6,46.0,46.0,Colorado,2014,Governor
+Quinnipiac*,2014-11-02,815.0,3.4,43.0,45.0,Colorado,2014,Governor
+Denver Post/SurveyUSA*,2014-10-29,618.0,4.0,46.0,46.0,Colorado,2014,Governor
+YouGov,2014-10-31,1417.0,3.3,44.0,42.0,Colorado,2014,Governor
+Rasmussen Reports,2014-10-23,966.0,3.0,47.0,49.0,Colorado,2014,Governor
+NBC News/Marist*,2014-10-22,755.0,3.6,46.0,41.0,Colorado,2014,Governor
+Quinnipiac*,2014-10-27,844.0,3.4,40.0,45.0,Colorado,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,1611.0,4.0,48.0,44.0,Colorado,2014,Governor
+USA Today/Suffolk*,2014-10-21,500.0,4.4,43.0,45.0,Colorado,2014,Governor
+PPP (D),2014-10-19,778.0,3.5,46.0,46.0,Colorado,2014,Governor
+Quinnipiac*,2014-10-21,974.0,3.1,45.0,44.0,Colorado,2014,Governor
+Reuters/Ipsos,2014-10-20,1099.0,3.4,46.0,46.0,Colorado,2014,Governor
+CNN/Opinion Research,2014-10-13,665.0,4.0,49.0,48.0,Colorado,2014,Governor
+Denver Post/SurveyUSA*,2014-10-12,591.0,4.1,45.0,44.0,Colorado,2014,Governor
+Quinnipiac*,2014-10-13,988.0,3.1,42.0,46.0,Colorado,2014,Governor
+High Point/SurveyUSA,2014-10-08,800.0,3.5,44.0,46.0,Colorado,2014,Governor
+FOX News,2014-10-07,739.0,3.5,42.0,42.0,Colorado,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,1634.0,3.0,49.0,45.0,Colorado,2014,Governor
+Rasmussen Reports,2014-09-30,950.0,3.0,50.0,46.0,Colorado,2014,Governor
+USA Today/Suffolk*,2014-09-16,500.0,4.4,43.0,41.0,Colorado,2014,Governor
+Quinnipiac*,2014-09-15,1211.0,2.8,40.0,50.0,Colorado,2014,Governor
+Denver Post/SurveyUSA*,2014-09-10,664.0,3.9,45.0,43.0,Colorado,2014,Governor
+Rasmussen Reports,2014-09-04,800.0,3.5,44.0,45.0,Colorado,2014,Governor
+NBC News/Marist*,2014-09-04,795.0,3.5,43.0,39.0,Colorado,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,1727.0,4.0,45.0,45.0,Colorado,2014,Governor
+CBS News/NYT/YouGov,2014-07-24,,,47.0,47.0,Colorado,2014,Governor
+PPP (D),2014-07-20,,3.8,44.0,43.0,Colorado,2014,Governor
+Quinnipiac,2014-07-14,,2.9,43.0,44.0,Colorado,2014,Governor
+NBC News/Marist,2014-07-10,,3.2,49.0,43.0,Colorado,2014,Governor
+Rasmussen Reports,2014-06-26,750.0,4.0,44.0,44.0,Colorado,2014,Governor
+Quinnipiac,2014-04-21,,2.7,48.0,39.0,Colorado,2014,Governor
+Magellan Strategies (R),2014-04-15,717.0,3.7,50.0,35.0,Colorado,2014,Governor
+PPP (D),2014-03-16,,4.1,48.0,38.0,Colorado,2014,Governor
+rcp_average,,,,45.3,44.8,Colorado,2014,Governor
+rcp_average,2014-11-02,,,42.3,41.0,Connecticut,2014,Governor
+Quinnipiac,2014-11-02,926.0,3.2,43.0,42.0,Connecticut,2014,Governor
+PPP (D),2014-11-01,931.0,3.2,44.0,41.0,Connecticut,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,,4.0,40.0,40.0,Connecticut,2014,Governor
+Quinnipiac,2014-10-27,838.0,3.4,43.0,43.0,Connecticut,2014,Governor
+Quinnipiac,2014-10-20,1010.0,3.1,43.0,42.0,Connecticut,2014,Governor
+Quinnipiac,2014-10-06,1085.0,3.0,43.0,43.0,Connecticut,2014,Governor
+PPP (D),2014-10-05,861.0,3.3,43.0,35.0,Connecticut,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,1284.0,3.0,41.0,41.0,Connecticut,2014,Governor
+Quinnipiac,2014-09-08,1304.0,2.7,40.0,46.0,Connecticut,2014,Governor
+rcp_average,,,,42.3,41.0,Connecticut,2014,Governor
+rcp_average,2014-11-02,,,40.7,40.3,Florida,2014,Governor
+Quinnipiac,2014-11-02,817.0,3.4,42.0,41.0,Florida,2014,Governor
+PPP (D),2014-11-02,1198.0,2.8,44.0,44.0,Florida,2014,Governor
+TB Times/Bay News 9/News 13/UF,2014-10-28,850.0,3.1,36.0,36.0,Florida,2014,Governor
+Quinnipiac,2014-10-27,817.0,3.4,43.0,40.0,Florida,2014,Governor
+Quinnipiac,2014-10-20,984.0,3.1,42.0,42.0,Florida,2014,Governor
+SurveyUSA,2014-10-13,566.0,4.2,45.0,41.0,Florida,2014,Governor
+CNN/Opinion Research,2014-10-13,610.0,4.0,44.0,44.0,Florida,2014,Governor
+TB Times/Bay News 9/News 13/UF,2014-10-12,781.0,3.2,40.0,40.0,Florida,2014,Governor
+SurveyUSA,2014-10-06,594.0,4.1,44.0,42.0,Florida,2014,Governor
+UNF,2014-10-08,471.0,4.7,43.0,38.0,Florida,2014,Governor
+SurveyUSA,2014-09-29,584.0,4.1,46.0,40.0,Florida,2014,Governor
+SurveyUSA,2014-09-22,588.0,4.1,42.0,43.0,Florida,2014,Governor
+Quinnipiac,2014-09-22,991.0,3.1,42.0,44.0,Florida,2014,Governor
+SurveyUSA,2014-09-15,571.0,4.2,39.0,44.0,Florida,2014,Governor
+SurveyUSA,2014-09-08,576.0,4.2,44.0,45.0,Florida,2014,Governor
+PPP (D),2014-09-07,818.0,3.4,42.0,39.0,Florida,2014,Governor
+Mason-Dixon,2014-09-04,625.0,4.0,41.0,43.0,Florida,2014,Governor
+TB Times/Bay News 9/News 13/UF,2014-08-31,814.0,3.4,36.0,41.0,Florida,2014,Governor
+SurveyUSA,2014-08-28,580.0,4.2,45.0,43.0,Florida,2014,Governor
+SurveyUSA,2014-08-18,564.0,4.2,41.0,44.0,Florida,2014,Governor
+Quinnipiac,2014-07-21,,2.8,39.0,37.0,Florida,2014,Governor
+Mason-Dixon,2014-04-22,700.0,3.8,42.0,42.0,Florida,2014,Governor
+rcp_average,2014-11-03,,,43.4,48.0,Georgia,2014,Governor
+WSB-TV/Landmark,2014-11-02,1500.0,2.5,45.0,51.0,Georgia,2014,Governor
+PPP (D),2014-11-03,975.0,3.1,43.0,47.0,Georgia,2014,Governor
+SurveyUSA,2014-11-02,591.0,4.1,42.0,47.0,Georgia,2014,Governor
+InsiderAdvantage,2014-11-02,1463.0,2.6,44.0,47.0,Georgia,2014,Governor
+NBC News/Marist,2014-10-30,603.0,4.0,43.0,48.0,Georgia,2014,Governor
+WSB-TV/Landmark,2014-10-29,1500.0,2.5,46.0,48.0,Georgia,2014,Governor
+YouGov,2014-10-31,1743.0,3.2,41.0,45.0,Georgia,2014,Governor
+SurveyUSA,2014-10-27,611.0,4.0,44.0,46.0,Georgia,2014,Governor
+Atlanta Journal-Constitution,2014-10-23,1170.0,3.6,41.0,46.0,Georgia,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,1774.0,4.0,43.0,47.0,Georgia,2014,Governor
+InsiderAdvantage,2014-10-22,704.0,3.7,44.0,44.0,Georgia,2014,Governor
+WSB-TV/Landmark,2014-10-21,1000.0,2.8,45.0,48.0,Georgia,2014,Governor
+CNN/Opinion Research,2014-10-22,565.0,4.0,48.0,46.0,Georgia,2014,Governor
+SurveyUSA,2014-10-20,606.0,4.1,43.0,45.0,Georgia,2014,Governor
+WRBL/Ledger-Enquirer/PMB,2014-10-14,1543.0,2.5,44.0,44.0,Georgia,2014,Governor
+SurveyUSA,2014-10-13,563.0,4.2,46.0,46.0,Georgia,2014,Governor
+WSB-TV/Landmark,2014-10-09,1000.0,3.1,45.0,45.0,Georgia,2014,Governor
+SurveyUSA,2014-10-06,566.0,4.2,44.0,46.0,Georgia,2014,Governor
+PPP (D),2014-10-05,895.0,3.3,41.0,46.0,Georgia,2014,Governor
+InsiderAdvantage,2014-10-01,947.0,3.2,43.0,44.0,Georgia,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,1851.0,3.0,43.0,48.0,Georgia,2014,Governor
+SurveyUSA,2014-09-22,550.0,4.3,45.0,44.0,Georgia,2014,Governor
+InsiderAdvantage,2014-09-11,1167.0,2.9,40.0,44.0,Georgia,2014,Governor
+WSB-TV/Landmark,2014-09-11,1109.0,2.9,47.0,44.0,Georgia,2014,Governor
+Atlanta Journal-Constitution,2014-09-11,884.0,4.0,42.0,43.0,Georgia,2014,Governor
+SurveyUSA,2014-09-08,558.0,4.2,44.0,45.0,Georgia,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,1900.0,3.0,39.0,47.0,Georgia,2014,Governor
+WRBL/Ledger-Enquirer/PMB,2014-08-25,1578.0,2.5,42.0,44.0,Georgia,2014,Governor
+WSB-TV/Landmark,2014-08-21,600.0,4.0,44.0,40.0,Georgia,2014,Governor
+SurveyUSA,2014-08-17,560.0,4.2,39.0,48.0,Georgia,2014,Governor
+InsiderAdvantage,2014-08-13,719.0,3.7,39.0,43.0,Georgia,2014,Governor
+WSB-TV/Landmark,2014-07-25,750.0,3.8,47.0,40.0,Georgia,2014,Governor
+WSB-TV/Landmark,2014-07-15,750.0,4.0,49.0,41.0,Georgia,2014,Governor
+InsiderAdvantage,2014-06-25,1349.0,2.7,40.0,47.0,Georgia,2014,Governor
+SurveyUSA,2014-06-05,999.0,3.2,38.0,44.0,Georgia,2014,Governor
+SurveyUSA,2014-05-12,1380.0,2.7,37.0,43.0,Georgia,2014,Governor
+Saint Leo University,2014-05-06,1000.0,3.0,35.0,38.0,Georgia,2014,Governor
+SurveyUSA,2014-04-27,1567.0,2.5,37.0,41.0,Georgia,2014,Governor
+rcp_average,2014-10-23,,,45.3,32.5,Hawaii,2014,Governor
+Honolulu Civil Beat/MRG*,2014-10-19,1221.0,2.8,40.0,34.0,Hawaii,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,1002.0,6.0,54.0,22.0,Hawaii,2014,Governor
+Honolulu Star-Advertiser,2014-10-18,605.0,4.0,47.0,35.0,Hawaii,2014,Governor
+Rasmussen Reports,2014-09-10,750.0,4.0,40.0,39.0,Hawaii,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,1319.0,4.0,41.0,35.0,Hawaii,2014,Governor
+Honolulu Civil Beat/MRG*,2014-09-14,1055.0,3.0,43.0,39.0,Hawaii,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,655.0,6.0,37.0,35.0,Hawaii,2014,Governor
+Honolulu Star-Advertiser,2014-07-29,612.0,4.0,34.0,41.0,Hawaii,2014,Governor
+Honolulu Civil Beat/MRG,2014-06-09,,3.0,31.0,31.0,Hawaii,2014,Governor
+rcp_average,,,,45.3,32.5,Hawaii,2014,Governor
+rcp_average,2014-11-01,,,36.0,50.7,Idaho,2014,Governor
+PPP (D)*,2014-11-01,1001.0,3.1,37.0,49.0,Idaho,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,575.0,6.0,35.0,53.0,Idaho,2014,Governor
+Rasmussen Reports,2014-05-29,750.0,4.0,36.0,50.0,Idaho,2014,Governor
+PPP (D),2014-10-12,522.0,4.3,38.0,47.0,Idaho,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,594.0,5.0,33.0,57.0,Idaho,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,844.0,4.0,33.0,51.0,Idaho,2014,Governor
+CBS News/NYT/YouGov,2014-07-24,,,34.0,56.0,Idaho,2014,Governor
+rcp_average,,,,36.0,50.7,Idaho,2014,Governor
+rcp_average,2014-11-02,,,45.6,44.8,Illinois,2014,Governor
+PPP (D),2014-11-02,1064.0,3.0,48.0,48.0,Illinois,2014,Governor
+Chicago Sun-Times*,2014-10-28,823.0,3.9,45.0,42.0,Illinois,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,3519.0,3.0,45.0,41.0,Illinois,2014,Governor
+Rasmussen Reports,2014-10-22,1000.0,3.0,47.0,48.0,Illinois,2014,Governor
+Chicago Tribune*,2014-10-21,800.0,3.5,43.0,45.0,Illinois,2014,Governor
+The Simon Poll/SIU*,2014-10-15,691.0,3.7,41.0,42.0,Illinois,2014,Governor
+Sun-Times/WeAskAmerica*,2014-10-08,1051.0,3.0,44.0,41.0,Illinois,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,3955.0,2.0,46.0,43.0,Illinois,2014,Governor
+Rasmussen Reports,2014-09-25,750.0,4.0,44.0,42.0,Illinois,2014,Governor
+WeAskAmerica*,2014-09-19,1418.0,3.0,41.0,44.0,Illinois,2014,Governor
+Chicago Tribune*,2014-09-12,,3.5,48.0,37.0,Illinois,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,4363.0,3.0,40.0,44.0,Illinois,2014,Governor
+Sun-Times/WeAskAmerica,2014-08-06,1085.0,3.1,38.0,51.0,Illinois,2014,Governor
+Rasmussen Reports,2014-07-30,750.0,4.0,39.0,44.0,Illinois,2014,Governor
+CBS News/NYT/YouGov,2014-07-24,,,43.0,46.0,Illinois,2014,Governor
+Rasmussen Reports,2014-04-10,750.0,4.0,40.0,43.0,Illinois,2014,Governor
+WeAskAmerica,2014-01-30,1354.0,2.7,39.0,47.0,Illinois,2014,Governor
+PPP (D),2014-11-25,,4.2,41.0,38.0,Illinois,2014,Governor
+rcp_average,,,,45.6,44.8,Illinois,2014,Governor
+rcp_average,2014-11-03,,,36.7,53.7,Iowa,2014,Governor
+PPP (D)*,2014-11-03,1265.0,2.8,40.0,51.0,Iowa,2014,Governor
+Quinnipiac,2014-11-02,778.0,3.5,41.0,52.0,Iowa,2014,Governor
+Des Moines Register,2014-10-31,701.0,3.7,35.0,59.0,Iowa,2014,Governor
+FOX News,2014-10-30,911.0,3.0,36.0,53.0,Iowa,2014,Governor
+Rasmussen Reports,2014-10-30,990.0,3.0,37.0,55.0,Iowa,2014,Governor
+YouGov,2014-10-31,1112.0,4.4,34.0,49.0,Iowa,2014,Governor
+Reuters/Ipsos,2014-10-29,1129.0,3.3,34.0,57.0,Iowa,2014,Governor
+Quinnipiac,2014-10-27,817.0,3.4,37.0,56.0,Iowa,2014,Governor
+Loras College,2014-10-24,1121.0,2.9,34.0,55.0,Iowa,2014,Governor
+NBC News/Marist,2014-10-22,772.0,3.5,36.0,59.0,Iowa,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,2322.0,3.0,37.0,50.0,Iowa,2014,Governor
+Quinnipiac,2014-10-21,964.0,3.2,37.0,55.0,Iowa,2014,Governor
+USA Today/Suffolk*,2014-10-14,500.0,4.4,37.0,54.0,Iowa,2014,Governor
+Quinnipiac,2014-10-13,967.0,3.2,39.0,54.0,Iowa,2014,Governor
+Des Moines Register/Bloomberg,2014-10-08,1000.0,3.1,39.0,54.0,Iowa,2014,Governor
+Loras College,2014-10-03,600.0,4.0,33.0,56.0,Iowa,2014,Governor
+NBC News/Marist,2014-10-01,778.0,3.5,36.0,58.0,Iowa,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,2359.0,2.0,39.0,52.0,Iowa,2014,Governor
+PPP (D),2014-09-28,1192.0,2.8,38.0,52.0,Iowa,2014,Governor
+Des Moines Register*,2014-09-24,546.0,4.2,34.0,48.0,Iowa,2014,Governor
+Rasmussen Reports,2014-09-18,750.0,4.0,40.0,46.0,Iowa,2014,Governor
+FOX News,2014-09-16,600.0,4.0,37.0,50.0,Iowa,2014,Governor
+Quinnipiac,2014-09-15,1167.0,2.9,37.0,60.0,Iowa,2014,Governor
+Loras College,2014-09-05,1200.0,2.8,34.0,56.0,Iowa,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,1764.0,3.0,38.0,51.0,Iowa,2014,Governor
+USA Today/Suffolk*,2014-08-26,500.0,4.4,35.0,47.0,Iowa,2014,Governor
+PPP (D),2014-08-24,915.0,3.2,37.0,50.0,Iowa,2014,Governor
+Rasmussen Reports,2014-08-12,750.0,4.0,35.0,52.0,Iowa,2014,Governor
+CBS News/NYT/YouGov,2014-07-24,,,40.0,51.0,Iowa,2014,Governor
+NBC News/Marist,2014-07-13,,2.5,38.0,53.0,Iowa,2014,Governor
+Quinnipiac,2014-06-16,,2.7,38.0,47.0,Iowa,2014,Governor
+Loras College,2014-06-05,600.0,4.0,38.0,52.0,Iowa,2014,Governor
+Rasmussen Reports,2014-06-05,750.0,4.0,40.0,49.0,Iowa,2014,Governor
+PPP (D),2014-05-19,,3.3,40.0,48.0,Iowa,2014,Governor
+CEA/Hickman Analytics (D),2014-04-30,500.0,4.4,40.0,50.0,Iowa,2014,Governor
+Vox Populi/Daily Caller (R),2014-04-24,,,43.0,45.0,Iowa,2014,Governor
+Suffolk,2014-04-08,800.0,3.5,32.0,42.0,Iowa,2014,Governor
+Quinnipiac,2014-03-10,,2.6,35.0,46.0,Iowa,2014,Governor
+Des Moines Register,2014-02-26,461.0,4.6,29.0,44.0,Iowa,2014,Governor
+PPP (D),2014-02-23,,3.3,36.0,48.0,Iowa,2014,Governor
+Quinnipiac,2014-12-15,,2.4,33.0,49.0,Iowa,2014,Governor
+Des Moines Register,2014-12-11,325.0,,29.0,52.0,Iowa,2014,Governor
+PPP (D),2014-07-07,,3.8,35.0,47.0,Iowa,2014,Governor
+Des Moines Register,2014-06-05,591.0,4.0,27.0,55.0,Iowa,2014,Governor
+PPP (D),2014-02-03,,,33.0,48.0,Iowa,2014,Governor
+rcp_average,,,,36.7,53.7,Iowa,2014,Governor
+rcp_average,2014-11-03,,,44.6,42.6,Kansas,2014,Governor
+PPP (D)*,2014-11-03,963.0,3.2,46.0,45.0,Kansas,2014,Governor
+FOX News*,2014-10-30,907.0,3.0,48.0,42.0,Kansas,2014,Governor
+YouGov*,2014-10-31,1137.0,4.8,38.0,39.0,Kansas,2014,Governor
+SurveyUSA*,2014-10-26,623.0,4.0,46.0,43.0,Kansas,2014,Governor
+NBC News/Marist*,2014-10-22,757.0,3.6,45.0,44.0,Kansas,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,1973.0,4.0,40.0,43.0,Kansas,2014,Governor
+Rasmussen Reports,2014-10-21,960.0,3.0,52.0,45.0,Kansas,2014,Governor
+Remington Research Group (R)*,2014-10-12,1091.0,3.0,45.0,48.0,Kansas,2014,Governor
+PPP (D),2014-10-12,1081.0,3.0,45.0,44.0,Kansas,2014,Governor
+FOX News*,2014-10-07,702.0,3.5,40.0,46.0,Kansas,2014,Governor
+CNN/Opinion Research,2014-10-06,687.0,3.5,49.0,49.0,Kansas,2014,Governor
+SurveyUSA*,2014-10-05,549.0,4.3,47.0,42.0,Kansas,2014,Governor
+NBC News/Marist*,2014-10-01,636.0,3.9,44.0,43.0,Kansas,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,2013.0,3.0,42.0,45.0,Kansas,2014,Governor
+USA Today/Suffolk*,2014-09-30,500.0,4.4,46.0,42.0,Kansas,2014,Governor
+Rasmussen Reports,2014-09-17,750.0,4.0,47.0,43.0,Kansas,2014,Governor
+FOX News*,2014-09-16,604.0,4.0,45.0,41.0,Kansas,2014,Governor
+PPP (D),2014-09-14,1328.0,2.7,45.0,39.0,Kansas,2014,Governor
+SurveyUSA*,2014-09-07,555.0,4.2,47.0,40.0,Kansas,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,839.0,5.0,40.0,47.0,Kansas,2014,Governor
+SurveyUSA*,2014-08-23,560.0,4.2,48.0,40.0,Kansas,2014,Governor
+PPP (D),2014-08-17,903.0,3.3,44.0,39.0,Kansas,2014,Governor
+Rasmussen Reports,2014-08-07,750.0,4.0,51.0,41.0,Kansas,2014,Governor
+CBS News/NYT/YouGov,2014-07-24,,,40.0,52.0,Kansas,2014,Governor
+SurveyUSA*,2014-07-22,1208.0,2.9,48.0,40.0,Kansas,2014,Governor
+SurveyUSA*,2014-06-23,1068.0,3.1,47.0,41.0,Kansas,2014,Governor
+Rasmussen Reports,2014-04-17,750.0,4.0,40.0,47.0,Kansas,2014,Governor
+PPP (D),2014-02-20,,3.7,42.0,40.0,Kansas,2014,Governor
+SurveyUSA*,2014-10-24,,4.4,43.0,39.0,Kansas,2014,Governor
+rcp_average,,,,44.6,42.6,Kansas,2014,Governor
+rcp_average,2014-11-02,,,39.8,41.2,Maine,2014,Governor
+MPRC (D),2014-11-02,906.0,3.3,45.0,44.0,Maine,2014,Governor
+Bangor Daily News/Ipsos,2014-10-29,488.0,5.1,42.0,42.0,Maine,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,1177.0,5.0,37.0,35.0,Maine,2014,Governor
+Portland Press Herald,2014-10-21,639.0,3.8,35.0,45.0,Maine,2014,Governor
+Pan Atlantic SMS,2014-10-21,400.0,4.9,40.0,40.0,Maine,2014,Governor
+Rasmussen Reports,2014-10-09,930.0,3.0,40.0,41.0,Maine,2014,Governor
+Bangor Daily News/Ipsos,2014-10-12,540.0,4.8,42.0,36.0,Maine,2014,Governor
+Critical Insights,2014-09-30,606.0,4.0,36.0,39.0,Maine,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,1531.0,3.0,39.0,37.0,Maine,2014,Governor
+Pan Atlantic SMS,2014-09-29,400.0,4.9,34.0,39.0,Maine,2014,Governor
+Portland Press Herald,2014-09-25,482.0,4.4,41.0,39.0,Maine,2014,Governor
+Rasmussen Reports,2014-09-04,750.0,4.0,43.0,39.0,Maine,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,1202.0,4.0,37.0,38.0,Maine,2014,Governor
+MPRC (D),2014-07-28,796.0,3.5,43.0,41.0,Maine,2014,Governor
+Portland Press Herald,2014-06-18,527.0,4.3,40.0,36.0,Maine,2014,Governor
+Rasmussen Reports,2014-04-25,830.0,3.0,40.0,40.0,Maine,2014,Governor
+Critical Insights,2014-04-23,,4.0,37.0,36.0,Maine,2014,Governor
+Pan Atlantic SMS,2014-04-05,400.0,4.9,37.0,39.0,Maine,2014,Governor
+Pan Atlantic SMS,2014-11-30,400.0,4.9,37.0,36.0,Maine,2014,Governor
+PPP (D),2014-11-11,,3.2,38.0,36.0,Maine,2014,Governor
+Critical Insights,2014-09-30,600.0,4.0,33.0,30.0,Maine,2014,Governor
+MPRC (D),2014-09-10,652.0,3.8,40.0,34.0,Maine,2014,Governor
+PPP (D),2014-08-25,,3.2,39.0,35.0,Maine,2014,Governor
+Pan Atlantic SMS,2014-03-16,,4.9,23.0,34.0,Maine,2014,Governor
+PPP (D),2014-01-20,,2.8,30.0,34.0,Maine,2014,Governor
+rcp_average,,,,39.8,41.2,Maine,2014,Governor
+WPA Research (R)***,2014-10-27,504.0,4.4,39.0,44.0,Maryland,2014,Governor
+Gonzales Research***,2014-10-24,822.0,3.5,46.0,44.0,Maryland,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,1086.0,5.0,51.0,38.0,Maryland,2014,Governor
+Baltimore Sun,2014-10-08,800.0,3.5,49.0,42.0,Maryland,2014,Governor
+Washington Post*,2014-10-05,549.0,5.0,47.0,38.0,Maryland,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,1096.0,4.0,55.0,38.0,Maryland,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,1082.0,4.0,51.0,37.0,Maryland,2014,Governor
+CBS News/NYT/YouGov,2014-07-24,,,52.0,39.0,Maryland,2014,Governor
+Rasmussen Reports,2014-07-10,750.0,4.0,48.0,35.0,Maryland,2014,Governor
+Washington Post,2014-06-08,,3.5,51.0,33.0,Maryland,2014,Governor
+WPA Research (R)***,,504.0,4.4,39.0,44.0,Maryland,2014,Governor
+rcp_average,2014-11-01,,,42.0,45.7,Massachusetts,2014,Governor
+PPP (D)*,2014-11-01,887.0,3.3,42.0,46.0,Massachusetts,2014,Governor
+Suffolk/Boston Herald*,2014-10-29,500.0,4.4,43.0,46.0,Massachusetts,2014,Governor
+Boston Globe*,2014-10-29,600.0,4.0,37.0,44.0,Massachusetts,2014,Governor
+Emerson College*,2014-10-29,627.0,3.9,42.0,48.0,Massachusetts,2014,Governor
+Western NE University*,2014-10-30,430.0,5.0,41.0,46.0,Massachusetts,2014,Governor
+UMass Amherst/WBZ*,2014-10-27,591.0,4.5,47.0,44.0,Massachusetts,2014,Governor
+WBUR/MassINC*,2014-10-25,494.0,4.4,42.0,43.0,Massachusetts,2014,Governor
+UMass Lowell/7News*,2014-10-25,601.0,4.5,41.0,45.0,Massachusetts,2014,Governor
+Boston Globe*,2014-10-22,500.0,4.4,36.0,45.0,Massachusetts,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,2218.0,3.0,45.0,41.0,Massachusetts,2014,Governor
+WBUR/MassINC*,2014-10-18,501.0,4.4,42.0,43.0,Massachusetts,2014,Governor
+Boston Globe*,2014-10-14,400.0,4.9,41.0,41.0,Massachusetts,2014,Governor
+Rasmussen Reports,2014-10-14,980.0,3.0,46.0,48.0,Massachusetts,2014,Governor
+WBUR/MassINC*,2014-10-11,500.0,4.4,42.0,39.0,Massachusetts,2014,Governor
+WGBH/Emerson*,2014-10-07,500.0,4.3,39.0,45.0,Massachusetts,2014,Governor
+Boston Globe*,2014-10-07,400.0,4.9,39.0,34.0,Massachusetts,2014,Governor
+WBUR/MassINC*,2014-10-04,504.0,4.4,41.0,39.0,Massachusetts,2014,Governor
+UMass Amherst/WBZ*,2014-10-02,414.0,5.5,48.0,44.0,Massachusetts,2014,Governor
+Boston Globe*,2014-09-30,401.0,4.9,36.0,39.0,Massachusetts,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,2389.0,2.0,47.0,41.0,Massachusetts,2014,Governor
+WBUR/MassINC*,2014-09-27,503.0,4.4,44.0,41.0,Massachusetts,2014,Governor
+Suffolk/Boston Herald*,2014-09-28,500.0,4.4,44.0,43.0,Massachusetts,2014,Governor
+Western NE University*,2014-09-28,416.0,5.0,43.0,44.0,Massachusetts,2014,Governor
+Boston Globe*,2014-09-23,400.0,4.9,38.0,40.0,Massachusetts,2014,Governor
+UMass Amherst/WBZ*,2014-09-23,440.0,,45.0,46.0,Massachusetts,2014,Governor
+WBUR/MassINC*,2014-09-21,502.0,4.4,46.0,36.0,Massachusetts,2014,Governor
+Rasmussen Reports,2014-09-17,750.0,4.0,42.0,42.0,Massachusetts,2014,Governor
+Boston Globe*,2014-09-16,407.0,4.9,39.0,36.0,Massachusetts,2014,Governor
+WBUR/MassINC*,2014-09-14,504.0,4.4,44.0,35.0,Massachusetts,2014,Governor
+WBUR/MassINC*,2014-09-07,500.0,4.4,39.0,34.0,Massachusetts,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,3361.0,2.0,43.0,35.0,Massachusetts,2014,Governor
+WBUR/MassINC*,2014-08-31,700.0,3.7,40.0,31.0,Massachusetts,2014,Governor
+UMass Lowell/7News*,2014-08-31,,2.9,41.0,32.0,Massachusetts,2014,Governor
+Boston Globe*,2014-08-26,605.0,4.0,37.0,38.0,Massachusetts,2014,Governor
+Boston Globe*,2014-08-19,605.0,4.0,41.0,34.0,Massachusetts,2014,Governor
+Boston Globe*,2014-08-12,606.0,4.0,40.0,32.0,Massachusetts,2014,Governor
+Boston Globe*,2014-08-05,605.0,4.0,42.0,31.0,Massachusetts,2014,Governor
+Mass Insight/Opinion Dynamics,2014-08-03,,,44.0,41.0,Massachusetts,2014,Governor
+Boston Globe*,2014-07-29,601.0,4.0,42.0,32.0,Massachusetts,2014,Governor
+CBS News/NYT/YouGov,2014-07-24,,,51.0,36.0,Massachusetts,2014,Governor
+Boston Globe*,2014-07-22,625.0,3.9,38.0,33.0,Massachusetts,2014,Governor
+Boston Globe*,2014-07-15,605.0,4.0,39.0,36.0,Massachusetts,2014,Governor
+Boston Globe*,2014-07-08,604.0,4.0,40.0,35.0,Massachusetts,2014,Governor
+Boston Globe*,2014-07-01,601.0,4.0,40.0,31.0,Massachusetts,2014,Governor
+WBUR/MassINC*,2014-06-29,502.0,4.4,41.0,28.0,Massachusetts,2014,Governor
+Boston Globe*,2014-06-24,604.0,3.9,41.0,30.0,Massachusetts,2014,Governor
+Boston Globe*,2014-06-17,630.0,3.9,43.0,30.0,Massachusetts,2014,Governor
+Boston Globe*,2014-06-10,697.0,3.7,42.0,31.0,Massachusetts,2014,Governor
+Suffolk/Boston Herald*,2014-06-07,800.0,3.5,36.0,29.0,Massachusetts,2014,Governor
+Boston Globe*,2014-06-03,602.0,4.0,37.0,32.0,Massachusetts,2014,Governor
+WBUR/MassINC*,2014-05-18,503.0,4.4,39.0,30.0,Massachusetts,2014,Governor
+Western NE University**,2014-04-07,,5.0,54.0,25.0,Massachusetts,2014,Governor
+UMass Poll,2014-04-06,,5.9,45.0,34.0,Massachusetts,2014,Governor
+WBUR/MassINC*,2014-03-16,500.0,4.4,41.0,26.0,Massachusetts,2014,Governor
+Suffolk/Boston Herald*,2014-02-03,600.0,4.0,44.0,31.0,Massachusetts,2014,Governor
+Purple Strategies,2014-01-23,500.0,4.4,46.0,36.0,Massachusetts,2014,Governor
+WBUR/MassINC*,2014-01-19,,4.4,39.0,29.0,Massachusetts,2014,Governor
+Western NE University,2014-10-07,,5.0,54.0,34.0,Massachusetts,2014,Governor
+PPP (D),2014-09-23,,4.0,51.0,38.0,Massachusetts,2014,Governor
+PPP (D),2014-06-24,,3.3,47.0,34.0,Massachusetts,2014,Governor
+rcp_average,,,,42.0,45.7,Massachusetts,2014,Governor
+rcp_average,2014-11-03,,,44.3,46.3,Michigan,2014,Governor
+FOX 2 Detroit/Mitchell*,2014-11-03,1310.0,2.7,47.0,49.0,Michigan,2014,Governor
+PPP (D)*,2014-11-02,914.0,3.2,45.0,46.0,Michigan,2014,Governor
+EPIC-MRA,2014-10-28,600.0,4.0,43.0,45.0,Michigan,2014,Governor
+Detroit News,2014-10-24,600.0,4.0,40.0,45.0,Michigan,2014,Governor
+Rasmussen Reports,2014-10-22,1000.0,3.0,46.0,49.0,Michigan,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,2394.0,3.0,45.0,44.0,Michigan,2014,Governor
+FOX 2 Detroit/Mitchell*,2014-11-02,1224.0,2.8,47.0,47.0,Michigan,2014,Governor
+FOX 2 Detroit/Mitchell*,2014-10-27,1159.0,2.9,43.0,48.0,Michigan,2014,Governor
+EPIC-MRA,2014-10-19,600.0,4.0,39.0,47.0,Michigan,2014,Governor
+FOX 2 Detroit/Mitchell*,2014-10-19,919.0,3.2,46.0,48.0,Michigan,2014,Governor
+FOX 2 Detroit/Mitchell*,2014-10-12,1340.0,2.7,44.0,47.0,Michigan,2014,Governor
+FOX 2 Detroit/Mitchell*,2014-10-09,1306.0,2.7,46.0,47.0,Michigan,2014,Governor
+Detroit News*,2014-10-04,600.0,4.0,37.0,45.0,Michigan,2014,Governor
+MRG (R),2014-10-01,600.0,4.0,41.0,46.0,Michigan,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,2560.0,2.0,46.0,44.0,Michigan,2014,Governor
+FOX 2 Detroit/Mitchell*,2014-09-29,1178.0,2.9,42.0,46.0,Michigan,2014,Governor
+EPIC-MRA*,2014-09-29,600.0,4.0,39.0,45.0,Michigan,2014,Governor
+Target-Insyght/MIRS,2014-09-24,600.0,4.0,40.0,41.0,Michigan,2014,Governor
+WeAskAmerica*,2014-09-19,1182.0,3.0,43.0,43.0,Michigan,2014,Governor
+Rasmussen Reports,2014-09-18,750.0,4.0,41.0,47.0,Michigan,2014,Governor
+Mitchell Research*,2014-09-14,829.0,3.4,41.0,46.0,Michigan,2014,Governor
+Vanguard/Denno Research (D),2014-09-13,600.0,4.0,40.0,43.0,Michigan,2014,Governor
+USA Today/Suffolk*,2014-09-10,500.0,4.4,45.0,43.0,Michigan,2014,Governor
+PPP (D),2014-09-07,687.0,3.7,44.0,46.0,Michigan,2014,Governor
+Detroit News,2014-09-05,600.0,4.0,42.0,44.0,Michigan,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,2897.0,3.0,43.0,44.0,Michigan,2014,Governor
+Mitchell Research,2014-08-27,1004.0,3.1,46.0,47.0,Michigan,2014,Governor
+EPIC-MRA,2014-08-25,600.0,4.0,45.0,43.0,Michigan,2014,Governor
+Mitchell Research,2014-08-05,626.0,5.0,42.0,47.0,Michigan,2014,Governor
+Rasmussen Reports,2014-07-29,750.0,4.0,42.0,45.0,Michigan,2014,Governor
+MRG (R),2014-07-30,600.0,4.0,44.0,45.0,Michigan,2014,Governor
+CBS News/NYT/YouGov,2014-07-24,,,43.0,46.0,Michigan,2014,Governor
+EPIC-MRA,2014-07-15,600.0,4.0,43.0,46.0,Michigan,2014,Governor
+Mitchell Research,2014-07-17,600.0,4.0,39.0,43.0,Michigan,2014,Governor
+Vanguard/Denno Research (D),2014-07-11,600.0,4.0,35.0,43.0,Michigan,2014,Governor
+NBC News/Marist,2014-07-10,,3.3,44.0,46.0,Michigan,2014,Governor
+PPP (D),2014-06-29,,4.1,40.0,40.0,Michigan,2014,Governor
+Mitchell Research,2014-06-06,961.0,3.2,41.0,46.0,Michigan,2014,Governor
+Detroit News,2014-05-22,600.0,4.0,35.0,45.0,Michigan,2014,Governor
+EPIC-MRA,2014-05-20,600.0,4.0,38.0,47.0,Michigan,2014,Governor
+CEA/Hickman Analytics (D),2014-04-30,502.0,4.4,37.0,48.0,Michigan,2014,Governor
+Magellan Strategies (R),2014-04-15,875.0,3.3,42.0,45.0,Michigan,2014,Governor
+Mitchell Research,2014-04-09,1460.0,2.6,37.0,49.0,Michigan,2014,Governor
+PPP (D),2014-04-06,,3.4,39.0,43.0,Michigan,2014,Governor
+MRG (R),2014-03-28,600.0,4.1,39.0,47.0,Michigan,2014,Governor
+LEu0026amp;A/Denno Research (D),2014-03-10,600.0,4.0,39.0,42.0,Michigan,2014,Governor
+EPIC-MRA,2014-02-11,600.0,4.0,39.0,47.0,Michigan,2014,Governor
+Harper (R),2014-01-08,1004.0,3.1,35.0,47.0,Michigan,2014,Governor
+PPP (D),2014-12-08,,3.0,40.0,44.0,Michigan,2014,Governor
+LEu0026amp;A/Denno Research (D),2014-11-14,600.0,4.0,31.0,45.0,Michigan,2014,Governor
+Inside Michigan Politics,2014-10-29,794.0,4.0,34.0,36.0,Michigan,2014,Governor
+EPIC-MRA,2014-09-10,600.0,4.0,36.0,44.0,Michigan,2014,Governor
+LEu0026amp;A/Denno Research (D),2014-07-24,600.0,4.0,37.0,43.0,Michigan,2014,Governor
+PPP (D),2014-06-02,,3.7,42.0,38.0,Michigan,2014,Governor
+EPIC-MRA,2014-05-15,600.0,4.0,39.0,39.0,Michigan,2014,Governor
+EPIC-MRA,2014-04-16,,4.0,39.0,38.0,Michigan,2014,Governor
+PPP (D),2014-03-04,,3.7,40.0,36.0,Michigan,2014,Governor
+PPP (D),2014-12-16,,3.8,44.0,39.0,Michigan,2014,Governor
+rcp_average,,,,44.3,46.3,Michigan,2014,Governor
+rcp_average,2014-10-30,,,47.3,40.3,Minnesota,2014,Governor
+KSTP/SurveyUSA*,2014-10-30,596.0,4.1,47.0,42.0,Minnesota,2014,Governor
+Star Tribune/Mason-Dixon*,2014-10-22,800.0,3.5,45.0,38.0,Minnesota,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,2430.0,3.0,50.0,41.0,Minnesota,2014,Governor
+KSTP/SurveyUSA*,2014-10-16,597.0,4.1,50.0,40.0,Minnesota,2014,Governor
+KSTP/SurveyUSA*,2014-10-02,577.0,4.1,51.0,39.0,Minnesota,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,2562.0,2.0,49.0,42.0,Minnesota,2014,Governor
+Rasmussen Reports,2014-09-30,750.0,4.0,50.0,40.0,Minnesota,2014,Governor
+Star Tribune/Mason-Dixon*,2014-09-10,800.0,3.5,45.0,33.0,Minnesota,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,3607.0,2.0,48.0,41.0,Minnesota,2014,Governor
+KSTP/SurveyUSA*,2014-08-21,600.0,4.1,49.0,40.0,Minnesota,2014,Governor
+Rasmussen Reports,2014-08-14,750.0,4.0,49.0,41.0,Minnesota,2014,Governor
+PPP (D),2014-06-15,,3.9,47.0,36.0,Minnesota,2014,Governor
+KSTP/SurveyUSA*,2014-06-09,1017.0,3.1,46.0,40.0,Minnesota,2014,Governor
+Suffolk,2014-04-28,800.0,3.5,44.0,30.0,Minnesota,2014,Governor
+KSTP/SurveyUSA,2014-02-27,,4.3,52.0,34.0,Minnesota,2014,Governor
+PPP (D),2014-10-29,,3.3,48.0,37.0,Minnesota,2014,Governor
+PPP (D),2014-05-19,,3.7,52.0,34.0,Minnesota,2014,Governor
+PPP (D),2014-01-20,,3.0,53.0,29.0,Minnesota,2014,Governor
+rcp_average,,,,47.3,40.3,Minnesota,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,681.0,5.0,35.0,55.0,Nebraksa,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,721.0,4.0,35.0,55.0,Nebraksa,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,987.0,4.0,34.0,54.0,Nebraksa,2014,Governor
+CBS News/NYT/YouGov,2014-07-24,,,41.0,49.0,Nebraksa,2014,Governor
+Rasmussen Reports,2014-05-15,750.0,4.0,40.0,47.0,Nebraksa,2014,Governor
+CBS News/NYT/YouGov,,681.0,5.0,35.0,55.0,Nebraksa,2014,Governor
+rcp_average,2014-10-23,,,30.0,54.7,Nevada,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,1314.0,4.0,28.0,53.0,Nevada,2014,Governor
+Harper (R),2014-07-29,602.0,4.0,34.0,56.0,Nevada,2014,Governor
+Rasmussen Reports,2014-06-18,750.0,4.0,28.0,55.0,Nevada,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,1502.0,3.0,25.0,56.0,Nevada,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,2018.0,3.0,29.0,51.0,Nevada,2014,Governor
+CBS News/NYT/YouGov,2014-07-24,,,33.0,57.0,Nevada,2014,Governor
+rcp_average,,,,30.0,54.7,Nevada,2014,Governor
+rcp_average,2014-11-03,,,49.2,45.7,New Hampshire,2014,Governor
+PPP (D),2014-11-03,1690.0,2.4,51.0,46.0,New Hampshire,2014,Governor
+New England College,2014-11-01,1526.0,2.5,51.0,44.0,New Hampshire,2014,Governor
+WMUR/UNH,2014-11-02,757.0,3.6,50.0,49.0,New Hampshire,2014,Governor
+Rasmussen Reports,2014-10-30,940.0,3.0,51.0,42.0,New Hampshire,2014,Governor
+ARG,2014-10-29,600.0,4.0,48.0,46.0,New Hampshire,2014,Governor
+Vox Populi (R),2014-10-28,638.0,3.9,44.0,47.0,New Hampshire,2014,Governor
+WMUR/UNH,2014-10-26,555.0,4.2,52.0,37.0,New Hampshire,2014,Governor
+New England College,2014-10-24,1132.0,2.9,47.0,47.0,New Hampshire,2014,Governor
+ARG,2014-10-22,600.0,4.0,53.0,43.0,New Hampshire,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,1042.0,4.0,47.0,38.0,New Hampshire,2014,Governor
+CNN/Opinion Research,2014-10-21,645.0,4.0,51.0,45.0,New Hampshire,2014,Governor
+UMass Lowell/7News,2014-10-21,643.0,4.5,49.0,45.0,New Hampshire,2014,Governor
+Suffolk/Boston Herald,2014-10-19,500.0,4.4,49.0,39.0,New Hampshire,2014,Governor
+New England College,2014-10-16,921.0,3.2,51.0,43.0,New Hampshire,2014,Governor
+New England College,2014-10-09,1081.0,3.0,49.0,44.0,New Hampshire,2014,Governor
+High Point/SurveyUSA,2014-10-08,824.0,3.5,50.0,42.0,New Hampshire,2014,Governor
+WMUR/UNH,2014-10-05,532.0,4.2,46.0,36.0,New Hampshire,2014,Governor
+New England College,2014-10-03,1286.0,2.7,51.0,41.0,New Hampshire,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,1260.0,3.0,49.0,39.0,New Hampshire,2014,Governor
+ARG,2014-09-29,600.0,4.0,55.0,40.0,New Hampshire,2014,Governor
+New England College,2014-09-26,1331.0,2.7,48.0,44.0,New Hampshire,2014,Governor
+New England College,2014-09-20,1494.0,2.5,52.0,40.0,New Hampshire,2014,Governor
+Vox Populi (R),2014-09-16,,4.2,47.0,43.0,New Hampshire,2014,Governor
+ARG,2014-09-15,,,51.0,39.0,New Hampshire,2014,Governor
+New England College,2014-09-11,630.0,4.0,51.0,36.0,New Hampshire,2014,Governor
+Rasmussen Reports,2014-09-11,750.0,4.0,51.0,40.0,New Hampshire,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,1159.0,4.0,51.0,34.0,New Hampshire,2014,Governor
+WMUR/UNH,2014-08-17,609.0,4.0,49.0,32.0,New Hampshire,2014,Governor
+CBS News/NYT/YouGov,2014-07-24,,,53.0,38.0,New Hampshire,2014,Governor
+WMUR/UNH,2014-07-01,509.0,4.3,57.0,31.0,New Hampshire,2014,Governor
+ARG,2014-06-18,,4.2,45.0,32.0,New Hampshire,2014,Governor
+Suffolk/Boston Herald*,2014-06-18,800.0,3.5,51.0,19.0,New Hampshire,2014,Governor
+Vox Populi (R),2014-05-15,,3.6,43.0,30.0,New Hampshire,2014,Governor
+Dartmouth,2014-04-25,,4.8,40.0,19.0,New Hampshire,2014,Governor
+WMUR/UNH,2014-04-09,387.0,5.0,49.0,19.0,New Hampshire,2014,Governor
+rcp_average,,,,49.2,45.7,New Hampshire,2014,Governor
+rcp_average,2014-10-23,,,37.7,51.0,New Mexico,2014,Governor
+Albuquerque Journal,2014-10-23,614.0,4.0,38.0,53.0,New Mexico,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,962.0,6.0,38.0,50.0,New Mexico,2014,Governor
+Rasmussen Reports,2014-09-23,830.0,4.0,37.0,50.0,New Mexico,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,1093.0,4.0,41.0,48.0,New Mexico,2014,Governor
+Albuquerque Journal,2014-09-11,603.0,4.0,36.0,54.0,New Mexico,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,1096.0,4.0,43.0,48.0,New Mexico,2014,Governor
+Albuquerque Journal,2014-08-14,606.0,4.0,41.0,50.0,New Mexico,2014,Governor
+CBS News/NYT/YouGov,2014-07-24,,,44.0,51.0,New Mexico,2014,Governor
+Rasmussen Reports,2014-07-22,860.0,4.0,43.0,43.0,New Mexico,2014,Governor
+PPP (D),2014-03-23,,3.8,42.0,47.0,New Mexico,2014,Governor
+rcp_average,,,,37.7,51.0,New Mexico,2014,Governor
+rcp_average,2014-10-28,,,55.3,32.0,New York,2014,Governor
+NBC NY/WSJ/Marist*,2014-10-28,503.0,4.4,56.0,30.0,New York,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,4506.0,2.0,56.0,31.0,New York,2014,Governor
+Siena*,2014-10-20,748.0,3.6,54.0,33.0,New York,2014,Governor
+Quinnipiac,2014-10-06,1153.0,2.9,55.0,34.0,New York,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,5122.0,2.0,57.0,30.0,New York,2014,Governor
+Rasmussen Reports,2014-09-23,825.0,4.0,49.0,32.0,New York,2014,Governor
+Siena*,2014-09-23,809.0,3.4,56.0,27.0,New York,2014,Governor
+NBC NY/WSJ/Marist*,2014-09-21,517.0,4.3,54.0,29.0,New York,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,5645.0,2.0,52.0,28.0,New York,2014,Governor
+Quinnipiac,2014-08-17,,3.1,56.0,28.0,New York,2014,Governor
+Siena*,2014-08-07,863.0,3.3,58.0,26.0,New York,2014,Governor
+NBC NY/WSJ/Marist*,2014-07-31,,3.4,54.0,23.0,New York,2014,Governor
+CBS News/NYT/YouGov,2014-07-24,,,56.0,32.0,New York,2014,Governor
+Siena*,2014-07-16,774.0,3.5,60.0,23.0,New York,2014,Governor
+NBC NY/WSJ/Marist*,2014-07-01,,3.8,59.0,24.0,New York,2014,Governor
+Siena*,2014-06-12,,3.4,57.0,21.0,New York,2014,Governor
+Quinnipiac,2014-05-19,,2.9,57.0,28.0,New York,2014,Governor
+Siena,2014-04-17,,3.5,58.0,28.0,New York,2014,Governor
+Siena,2014-03-20,,3.4,61.0,26.0,New York,2014,Governor
+NBC NY/WSJ/Marist,2014-03-03,,3.8,65.0,25.0,New York,2014,Governor
+Siena,2014-02-20,,3.5,64.0,22.0,New York,2014,Governor
+Quinnipiac,2014-02-10,,2.5,58.0,24.0,New York,2014,Governor
+Siena,2014-01-16,,3.4,67.0,19.0,New York,2014,Governor
+Quinnipiac,2014-11-24,,2.7,56.0,25.0,New York,2014,Governor
+NBC NY/WSJ/Marist,2014-11-20,,5.4,65.0,23.0,New York,2014,Governor
+Siena,2014-11-14,,3.5,63.0,24.0,New York,2014,Governor
+rcp_average,,,,55.3,32.0,New York,2014,Governor
+rcp_average,2014-10-31,,,35.0,55.7,Ohio,2014,Governor
+FOX News,2014-10-30,803.0,3.0,36.0,51.0,Ohio,2014,Governor
+Columbus Dispatch*,2014-10-31,1009.0,3.3,34.0,62.0,Ohio,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,2728.0,3.0,35.0,54.0,Ohio,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,3082.0,2.0,36.0,52.0,Ohio,2014,Governor
+Quinnipiac,2014-09-29,999.0,3.1,35.0,57.0,Ohio,2014,Governor
+Columbus Dispatch*,2014-09-12,,2.7,29.0,59.0,Ohio,2014,Governor
+Rasmussen Reports,2014-09-09,780.0,4.0,30.0,50.0,Ohio,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,2978.0,3.0,37.0,50.0,Ohio,2014,Governor
+Quinnipiac,2014-07-28,,2.7,36.0,48.0,Ohio,2014,Governor
+CBS News/NYT/YouGov,2014-07-24,,,43.0,49.0,Ohio,2014,Governor
+Quinnipiac,2014-05-12,,2.9,35.0,50.0,Ohio,2014,Governor
+Rasmussen Reports,2014-05-08,750.0,4.0,38.0,45.0,Ohio,2014,Governor
+SurveyUSA*,2014-04-28,618.0,4.0,36.0,46.0,Ohio,2014,Governor
+Magellan Strategies (R),2014-04-15,857.0,3.4,41.0,47.0,Ohio,2014,Governor
+Quinnipiac,2014-02-17,,2.7,38.0,43.0,Ohio,2014,Governor
+Quinnipiac,2014-11-24,,2.7,37.0,44.0,Ohio,2014,Governor
+PPP (D),2014-08-19,,4.2,38.0,35.0,Ohio,2014,Governor
+Quinnipiac,2014-06-23,,3.2,33.0,47.0,Ohio,2014,Governor
+Quinnipiac,2014-04-15,,2.9,37.0,46.0,Ohio,2014,Governor
+Quinnipiac,2014-02-26,,3.1,35.0,45.0,Ohio,2014,Governor
+rcp_average,,,,35.0,55.7,Ohio,2014,Governor
+rcp_average,2014-10-29,,,34.3,49.3,Oklahoma,2014,Governor
+Sooner Poll/News 9/News on 6*,2014-10-29,949.0,3.2,40.0,48.0,Oklahoma,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,995.0,5.0,32.0,56.0,Oklahoma,2014,Governor
+Cole Hargrave Snodgrass u0026amp; Associates (R)*,2014-07-25,,4.3,31.0,44.0,Oklahoma,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,1244.0,3.0,33.0,58.0,Oklahoma,2014,Governor
+Sooner Poll/News 9/News on 6*,2014-09-29,400.0,4.9,36.0,50.0,Oklahoma,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,821.0,5.0,35.0,53.0,Oklahoma,2014,Governor
+Sooner Poll/News 9/News on 6*,2014-08-30,603.0,4.0,32.0,50.0,Oklahoma,2014,Governor
+CBS News/NYT/YouGov,2014-07-24,,,40.0,49.0,Oklahoma,2014,Governor
+Rasmussen Reports,2014-07-16,750.0,4.0,40.0,45.0,Oklahoma,2014,Governor
+rcp_average,,,,34.3,49.3,Oklahoma,2014,Governor
+rcp_average,2014-10-27,,,47.7,40.0,Oregon,2014,Governor
+The Oregonian/Elway,2014-10-27,403.0,5.0,45.0,38.0,Oregon,2014,Governor
+SurveyUSA,2014-10-27,552.0,4.3,50.0,40.0,Oregon,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,1421.0,4.0,48.0,42.0,Oregon,2014,Governor
+SurveyUSA,2014-10-19,561.0,4.2,51.0,38.0,Oregon,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,1508.0,3.0,49.0,42.0,Oregon,2014,Governor
+SurveyUSA,2014-09-24,568.0,4.2,50.0,38.0,Oregon,2014,Governor
+Rasmussen Reports,2014-09-03,750.0,4.0,48.0,38.0,Oregon,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,1541.0,4.0,48.0,42.0,Oregon,2014,Governor
+SurveyUSA,2014-08-05,564.0,4.2,48.0,36.0,Oregon,2014,Governor
+CBS News/NYT/YouGov,2014-07-24,,,52.0,42.0,Oregon,2014,Governor
+SurveyUSA,2014-06-09,560.0,4.2,48.0,35.0,Oregon,2014,Governor
+PPP (D),2014-05-27,,3.2,49.0,36.0,Oregon,2014,Governor
+DHM Research/OPB,2014-05-02,,4.9,48.0,36.0,Oregon,2014,Governor
+Vox Populi/Daily Caller (R),2014-04-30,,3.9,44.0,44.0,Oregon,2014,Governor
+Harper (R),2014-04-02,670.0,3.9,46.0,43.0,Oregon,2014,Governor
+rcp_average,,,,47.7,40.0,Oregon,2014,Governor
+rcp_average,2014-10-29,,,51.2,40.2,Pennsylvania,2014,Governor
+Morning Call,2014-10-29,409.0,5.0,51.0,39.0,Pennsylvania,2014,Governor
+Magellan (R),2014-10-28,1433.0,2.6,50.0,43.0,Pennsylvania,2014,Governor
+Harper (R),2014-10-27,680.0,3.8,50.0,40.0,Pennsylvania,2014,Governor
+Franklin u0026amp; Marshall,2014-10-26,326.0,5.1,53.0,40.0,Pennsylvania,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,3111.0,3.0,52.0,39.0,Pennsylvania,2014,Governor
+Magellan (R),2014-10-14,1131.0,2.9,49.0,42.0,Pennsylvania,2014,Governor
+Quinnipiac,2014-10-05,907.0,3.3,55.0,38.0,Pennsylvania,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,3283.0,2.0,50.0,41.0,Pennsylvania,2014,Governor
+Mercyhurst University,2014-09-24,,4.5,43.0,28.0,Pennsylvania,2014,Governor
+Franklin u0026amp; Marshall,2014-09-22,231.0,6.4,57.0,37.0,Pennsylvania,2014,Governor
+Magellan (R),2014-09-18,1120.0,2.9,49.0,40.0,Pennsylvania,2014,Governor
+Morning Call,2014-09-18,429.0,5.0,54.0,33.0,Pennsylvania,2014,Governor
+Quinnipiac,2014-09-08,1161.0,2.9,59.0,35.0,Pennsylvania,2014,Governor
+Harper (R),2014-09-03,665.0,3.2,52.0,41.0,Pennsylvania,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,3560.0,2.0,50.0,39.0,Pennsylvania,2014,Governor
+Franklin u0026amp; Marshall,2014-08-25,,4.3,49.0,24.0,Pennsylvania,2014,Governor
+Magellan (R),2014-07-31,1214.0,2.8,50.0,38.0,Pennsylvania,2014,Governor
+CBS News/NYT/YouGov,2014-07-24,,,52.0,39.0,Pennsylvania,2014,Governor
+Franklin u0026amp; Marshall,2014-06-29,,4.4,47.0,25.0,Pennsylvania,2014,Governor
+Quinnipiac,2014-06-02,,2.7,53.0,33.0,Pennsylvania,2014,Governor
+PPP (D),2014-06-01,,3.4,55.0,30.0,Pennsylvania,2014,Governor
+Rasmussen Reports,2014-05-28,750.0,4.0,51.0,31.0,Pennsylvania,2014,Governor
+Quinnipiac,2014-02-24,,2.6,52.0,33.0,Pennsylvania,2014,Governor
+Quinnipiac,2014-12-16,,,44.0,37.0,Pennsylvania,2014,Governor
+PPP (D),2014-11-25,,3.7,44.0,32.0,Pennsylvania,2014,Governor
+Quinnipiac,2014-03-11,,,39.0,39.0,Pennsylvania,2014,Governor
+PPP (D),2014-03-10,,4.4,42.0,33.0,Pennsylvania,2014,Governor
+PPP (D),2014-01-06,,3.8,29.0,41.0,Pennsylvania,2014,Governor
+rcp_average,,,,51.2,40.2,Pennsylvania,2014,Governor
+rcp_average,2014-10-26,,,40.0,36.0,Rhode Island,2014,Governor
+Brown University*,2014-10-26,500.0,4.4,38.0,37.0,Rhode Island,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,866.0,6.0,40.0,35.0,Rhode Island,2014,Governor
+Providence Journal/WPRI*,2014-10-09,505.0,4.4,42.0,36.0,Rhode Island,2014,Governor
+Brown University*,2014-10-17,1129.0,2.9,42.0,31.0,Rhode Island,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,724.0,4.0,41.0,38.0,Rhode Island,2014,Governor
+Rasmussen Reports,2014-09-25,750.0,4.0,42.0,37.0,Rhode Island,2014,Governor
+rcp_average,,,,40.0,36.0,Rhode Island,2014,Governor
+rcp_average,2014-10-23,,,33.5,49.0,South Carolina,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,1566.0,4.0,33.0,50.0,South Carolina,2014,Governor
+Palmetto Politics Poll/VSS*,2014-10-19,917.0,3.2,31.0,51.0,South Carolina,2014,Governor
+Winthrop*,2014-09-28,1082.0,3.0,34.0,44.0,South Carolina,2014,Governor
+Rasmussen Reports,2014-08-26,750.0,4.0,36.0,51.0,South Carolina,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,2663.0,2.0,36.0,53.0,South Carolina,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,833.0,5.0,35.0,56.0,South Carolina,2014,Governor
+CBS News/NYT/YouGov,2014-07-24,,,38.0,55.0,South Carolina,2014,Governor
+Palmetto Politics Poll/VSS,2014-07-13,1000.0,3.1,40.0,53.0,South Carolina,2014,Governor
+Rasmussen Reports,2014-04-15,750.0,4.0,37.0,52.0,South Carolina,2014,Governor
+Harper (R),2014-10-28,676.0,3.8,39.0,48.0,South Carolina,2014,Governor
+rcp_average,,,,33.5,49.0,South Carolina,2014,Governor
+rcp_average,2014-10-26,,,29.0,59.3,South Dakota,2014,Governor
+SurveyUSA*,2014-10-26,611.0,4.0,34.0,54.0,South Dakota,2014,Governor
+Argus Leader/Mason-Dixon*,2014-10-23,800.0,3.5,26.0,62.0,South Dakota,2014,Governor
+NBC News/Marist,2014-10-23,730.0,3.6,28.0,67.0,South Dakota,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,527.0,8.0,28.0,54.0,South Dakota,2014,Governor
+Harper (R)*,2014-10-11,630.0,3.9,35.0,53.0,South Dakota,2014,Governor
+SurveyUSA*,2014-10-05,616.0,4.0,30.0,59.0,South Dakota,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,382.0,7.0,31.0,57.0,South Dakota,2014,Governor
+Nielson Brothers*,2014-09-25,607.0,3.4,28.0,53.0,South Dakota,2014,Governor
+SurveyUSA*,2014-09-07,510.0,4.4,34.0,54.0,South Dakota,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,526.0,6.0,28.0,55.0,South Dakota,2014,Governor
+Nielson Brothers*,2014-07-28,572.0,4.1,29.0,53.0,South Dakota,2014,Governor
+CBS News/NYT/YouGov,2014-07-24,,,27.0,66.0,South Dakota,2014,Governor
+Rasmussen Reports,2014-06-05,750.0,4.0,35.0,55.0,South Dakota,2014,Governor
+SurveyUSA*,2014-05-10,504.0,4.4,23.0,56.0,South Dakota,2014,Governor
+rcp_average,,,,29.0,59.3,South Dakota,2014,Governor
+rcp_average,2014-10-23,,,30.0,56.5,Tennessee,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,974.0,5.0,30.0,58.0,Tennessee,2014,Governor
+Rasmussen Reports,2014-08-12,750.0,3.0,30.0,55.0,Tennessee,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,1007.0,4.0,28.0,60.0,Tennessee,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,1056.0,4.0,29.0,56.0,Tennessee,2014,Governor
+rcp_average,,,,30.0,56.5,Tennessee,2014,Governor
+rcp_average,2014-10-23,,,35.7,52.7,Texas,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,3987.0,3.0,37.0,57.0,Texas,2014,Governor
+UT/Texas Tribune*,2014-10-19,866.0,3.3,38.0,54.0,Texas,2014,Governor
+KHOU/Houston Public Media,2014-10-16,781.0,3.5,32.0,47.0,Texas,2014,Governor
+Rasmussen Reports,2014-10-02,840.0,3.5,40.0,51.0,Texas,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,4177.0,2.0,40.0,54.0,Texas,2014,Governor
+Texas Lyceum*,2014-09-25,666.0,3.8,40.0,49.0,Texas,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,4189.0,2.0,38.0,56.0,Texas,2014,Governor
+Rasmussen Reports,2014-08-05,850.0,3.5,40.0,48.0,Texas,2014,Governor
+CBS News/NYT/YouGov,2014-07-24,,,37.0,54.0,Texas,2014,Governor
+UT/Texas Tribune*,2014-06-08,,2.8,32.0,44.0,Texas,2014,Governor
+PPP (D),2014-04-13,,4.1,37.0,51.0,Texas,2014,Governor
+Rasmussen Reports,2014-03-04,500.0,4.5,41.0,53.0,Texas,2014,Governor
+UT/Texas Tribune,2014-02-17,,2.8,36.0,47.0,Texas,2014,Governor
+PPP (D),2014-11-04,,4.4,35.0,50.0,Texas,2014,Governor
+UT/Texas Tribune,2014-10-27,,2.8,34.0,40.0,Texas,2014,Governor
+Texas Lyceum,2014-09-20,,3.5,21.0,29.0,Texas,2014,Governor
+PPP (D),2014-07-01,,4.4,40.0,48.0,Texas,2014,Governor
+PPP (D),2014-01-27,,4.4,34.0,46.0,Texas,2014,Governor
+rcp_average,,,,35.7,52.7,Texas,2014,Governor
+CBS News/NYT/YouGov*,2014-10-23,329.0,8.0,47.0,35.0,Vermont,2014,Governor
+CBS News/NYT/YouGov*,2014-10-01,328.0,6.0,46.0,29.0,Vermont,2014,Governor
+CBS News/NYT/YouGov*,2014-09-02,430.0,6.0,45.0,35.0,Vermont,2014,Governor
+Rasmussen Reports,2014-08-28,700.0,4.0,48.0,36.0,Vermont,2014,Governor
+CBS News/NYT/YouGov*,2014-07-24,,,52.0,27.0,Vermont,2014,Governor
+CBS News/NYT/YouGov*,,329.0,8.0,47.0,35.0,Vermont,2014,Governor
+rcp_average,2014-10-31,,,45.3,47.5,Wisconsin,2014,Governor
+YouGov,2014-10-31,1494.0,3.4,43.0,45.0,Wisconsin,2014,Governor
+Marquette University,2014-10-26,1164.0,3.0,43.0,50.0,Wisconsin,2014,Governor
+Rasmussen Reports,2014-10-21,973.0,3.0,49.0,48.0,Wisconsin,2014,Governor
+WPR/St. Norbert,2014-10-21,525.0,4.4,46.0,47.0,Wisconsin,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,3308.0,3.0,45.0,46.0,Wisconsin,2014,Governor
+Marquette University,2014-10-12,803.0,3.5,47.0,47.0,Wisconsin,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,1444.0,3.0,49.0,48.0,Wisconsin,2014,Governor
+Marquette University,2014-09-28,585.0,4.1,45.0,50.0,Wisconsin,2014,Governor
+Marquette University,2014-09-14,589.0,4.1,46.0,49.0,Wisconsin,2014,Governor
+Rasmussen Reports,2014-09-16,750.0,4.0,46.0,48.0,Wisconsin,2014,Governor
+WeAskAmerica*,2014-09-03,1170.0,3.0,48.0,44.0,Wisconsin,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,1473.0,4.0,45.0,49.0,Wisconsin,2014,Governor
+Marquette University,2014-08-24,609.0,4.1,49.0,47.0,Wisconsin,2014,Governor
+Rasmussen Reports,2014-08-14,750.0,4.0,47.0,48.0,Wisconsin,2014,Governor
+Marquette University,2014-07-20,549.0,4.3,47.0,46.0,Wisconsin,2014,Governor
+CBS News/NYT/YouGov,2014-07-24,,,46.0,47.0,Wisconsin,2014,Governor
+Marquette University,2014-05-18,586.0,3.5,45.0,48.0,Wisconsin,2014,Governor
+Magellan Strategies (R),2014-04-15,851.0,3.4,47.0,47.0,Wisconsin,2014,Governor
+PPP (D),2014-04-20,,2.9,45.0,48.0,Wisconsin,2014,Governor
+WPR/St. Norbert,2014-04-03,,,40.0,56.0,Wisconsin,2014,Governor
+Marquette University,2014-03-23,,3.5,41.0,48.0,Wisconsin,2014,Governor
+Rasmussen Reports,2014-03-11,500.0,4.5,45.0,45.0,Wisconsin,2014,Governor
+Marquette University,2014-01-23,,3.5,41.0,47.0,Wisconsin,2014,Governor
+Marquette University,2014-10-24,,3.5,45.0,47.0,Wisconsin,2014,Governor
+PPP (D),2014-09-16,,2.9,42.0,48.0,Wisconsin,2014,Governor
+rcp_average,,,,45.3,47.5,Wisconsin,2014,Governor
+rcp_average,2014-10-23,,,33.5,56.5,Wyoming,2014,Governor
+CBS News/NYT/YouGov,2014-10-23,258.0,11.0,33.0,58.0,Wyoming,2014,Governor
+Rasmussen Reports,2014-08-21,700.0,4.0,34.0,55.0,Wyoming,2014,Governor
+CBS News/NYT/YouGov,2014-10-01,264.0,7.0,30.0,53.0,Wyoming,2014,Governor
+CBS News/NYT/YouGov,2014-09-02,350.0,8.0,25.0,53.0,Wyoming,2014,Governor
+CBS News/NYT/YouGov,2014-07-24,,,25.0,53.0,Wyoming,2014,Governor
+rcp_average,,,,33.5,56.5,Wyoming,2014,Governor

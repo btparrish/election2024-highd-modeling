@@ -78,6 +78,4 @@ def get_national2016_data(url):
     return df
 
 df_national = get_national2016_data(url)
-
-#print(df_national.to_string(index=False))
     
