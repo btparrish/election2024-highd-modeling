@@ -1,0 +1,677 @@
+pollster,date,sampleSize,marginError,dvalue,rvalue,state,Year,Type
+rcp_average,2014-11-02,,,43.8,46.2,Alaska,2014,Senate
+PPP (D)*,2014-11-02,1052.0,3.0,45.0,46.0,Alaska,2014,Senate
+Rasmussen Reports,2014-10-30,887.0,4.0,42.0,47.0,Alaska,2014,Senate
+Ivan Moore Research,2014-10-26,544.0,,48.0,42.0,Alaska,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,561.0,9.0,44.0,48.0,Alaska,2014,Senate
+FOX News*,2014-10-07,706.0,3.5,40.0,44.0,Alaska,2014,Senate
+CNN/Opinion Research,2014-10-06,704.0,3.5,44.0,50.0,Alaska,2014,Senate
+Rasmussen Reports,2014-10-12,700.0,4.0,45.0,48.0,Alaska,2014,Senate
+CBS News/NYT/YouGov,2014-10-01,593.0,5.0,42.0,48.0,Alaska,2014,Senate
+Rasmussen Reports,2014-09-24,750.0,4.0,43.0,48.0,Alaska,2014,Senate
+PPP (D),2014-09-21,880.0,3.3,42.0,45.0,Alaska,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,412.0,6.0,38.0,44.0,Alaska,2014,Senate
+Rasmussen Reports,2014-08-21,750.0,4.0,45.0,47.0,Alaska,2014,Senate
+PPP (D),2014-08-03,,3.8,45.0,41.0,Alaska,2014,Senate
+CBS News/NYT/YouGov,2014-07-24,,5.2,49.0,37.0,Alaska,2014,Senate
+PPP (D)**,2014-05-11,,4.1,42.0,37.0,Alaska,2014,Senate
+Magellan Strategies (R),2014-04-14,603.0,4.0,41.0,46.0,Alaska,2014,Senate
+Rasmussen Reports,2014-03-20,750.0,4.0,44.0,44.0,Alaska,2014,Senate
+PPP (D)**,2014-02-01,,3.4,41.0,37.0,Alaska,2014,Senate
+PPP (D),2014-07-28,,3.3,46.0,39.0,Alaska,2014,Senate
+PPP (D),2014-02-05,,2.9,47.0,41.0,Alaska,2014,Senate
+rcp_average,,,,43.8,46.2,Alaska,2014,Senate
+rcp_average,2014-11-01,,,41.2,48.2,Arkansas,2014,Senate
+PPP (D)*,2014-11-01,1092.0,3.0,41.0,49.0,Arkansas,2014,Senate
+Rasmussen Reports,2014-10-29,967.0,3.0,44.0,51.0,Arkansas,2014,Senate
+The Arkansas Poll,2014-10-27,568.0,4.1,36.0,49.0,Arkansas,2014,Senate
+NBC News/Marist*,2014-10-23,621.0,3.9,43.0,45.0,Arkansas,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,1567.0,4.0,42.0,47.0,Arkansas,2014,Senate
+Talk Business Poll*,2014-10-16,2075.0,2.2,41.0,49.0,Arkansas,2014,Senate
+Rasmussen Reports,2014-10-15,940.0,3.0,44.0,47.0,Arkansas,2014,Senate
+FOX News*,2014-10-07,707.0,3.5,39.0,46.0,Arkansas,2014,Senate
+CBS News/NYT/YouGov,2014-10-01,1991.0,2.0,41.0,45.0,Arkansas,2014,Senate
+Rasmussen Reports,2014-09-25,750.0,4.0,40.0,47.0,Arkansas,2014,Senate
+USA Today/Suffolk*,2014-09-23,500.0,4.4,45.0,43.0,Arkansas,2014,Senate
+PPP (D),2014-09-21,1453.0,2.6,39.0,45.0,Arkansas,2014,Senate
+NBC News/Marist*,2014-09-04,639.0,3.9,40.0,45.0,Arkansas,2014,Senate
+CNN/Opinion Research,2014-09-02,523.0,4.5,47.0,49.0,Arkansas,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,1572.0,3.0,39.0,43.0,Arkansas,2014,Senate
+Rasmussen Reports,2014-08-26,750.0,4.0,44.0,43.0,Arkansas,2014,Senate
+PPP (D),2014-08-03,,3.0,41.0,43.0,Arkansas,2014,Senate
+Talk Business Poll*,2014-07-25,1780.0,2.3,42.0,44.0,Arkansas,2014,Senate
+CBS News/NYT/YouGov,2014-07-24,,2.9,46.0,50.0,Arkansas,2014,Senate
+Impact Management Group (R),2014-06-29,,2.7,43.0,47.0,Arkansas,2014,Senate
+Magellan Strategies (R),2014-06-05,755.0,3.6,45.0,49.0,Arkansas,2014,Senate
+Rasmussen Reports,2014-05-28,750.0,4.0,43.0,47.0,Arkansas,2014,Senate
+PPP (D),2014-04-27,,3.4,43.0,42.0,Arkansas,2014,Senate
+NBC News/Marist,2014-05-04,,3.3,51.0,40.0,Arkansas,2014,Senate
+Magellan Strategies (R),2014-04-15,857.0,3.4,43.0,46.0,Arkansas,2014,Senate
+NY Times/Kaiser,2014-04-15,,4.0,46.0,36.0,Arkansas,2014,Senate
+Talk Business Poll*,2014-04-04,1068.0,3.0,46.0,43.0,Arkansas,2014,Senate
+Opinion Research Associates,2014-04-08,,5.0,48.0,38.0,Arkansas,2014,Senate
+CEA/Hickman Analytics (D),2014-02-20,400.0,4.9,46.0,46.0,Arkansas,2014,Senate
+Impact Management Group (R),2014-02-10,,2.8,42.0,46.0,Arkansas,2014,Senate
+Rasmussen Reports,2014-02-05,500.0,4.5,40.0,45.0,Arkansas,2014,Senate
+The Arkansas Poll,2014-10-17,,,36.0,37.0,Arkansas,2014,Senate
+Impact Management Group (R),2014-10-24,,3.2,41.0,42.0,Arkansas,2014,Senate
+Talk Business Poll,2014-10-08,603.0,4.0,42.0,41.0,Arkansas,2014,Senate
+WFB/The Polling Company (R),2014-08-07,,4.0,45.0,43.0,Arkansas,2014,Senate
+Harper (R),2014-08-05,587.0,4.0,41.0,43.0,Arkansas,2014,Senate
+rcp_average,,,,41.2,48.2,Arkansas,2014,Senate
+rcp_average,2014-11-02,,,45.0,46.5,Colorado,2014,Senate
+PPP (D)*,2014-11-02,739.0,3.6,43.0,48.0,Colorado,2014,Senate
+Quinnipiac*,2014-11-02,815.0,3.4,44.0,45.0,Colorado,2014,Senate
+Denver Post/SurveyUSA*,2014-10-29,618.0,4.0,42.0,46.0,Colorado,2014,Senate
+YouGov,2014-10-31,1417.0,3.3,45.0,43.0,Colorado,2014,Senate
+Rasmussen Reports,2014-10-23,966.0,3.0,45.0,51.0,Colorado,2014,Senate
+NBC News/Marist,2014-10-22,755.0,3.6,45.0,46.0,Colorado,2014,Senate
+rcp_average,2014-11-02,,,43.0,46.5,Colorado,2014,Senate
+PPP (D)*,2014-11-02,739.0,3.6,44.0,48.0,Colorado,2014,Senate
+Quinnipiac*,2014-11-02,815.0,3.4,42.0,45.0,Colorado,2014,Senate
+Denver Post/SurveyUSA*,2014-10-29,618.0,4.0,39.0,46.0,Colorado,2014,Senate
+Quinnipiac*,2014-10-27,844.0,3.4,45.0,46.0,Colorado,2014,Senate
+Rasmussen Reports,2014-10-23,966.0,3.0,47.0,51.0,Colorado,2014,Senate
+NBC News/Marist,2014-10-22,755.0,3.6,39.0,46.0,Colorado,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,1611.0,4.0,44.0,46.0,Colorado,2014,Senate
+USA Today/Suffolk*,2014-10-21,500.0,4.4,41.0,46.0,Colorado,2014,Senate
+PPP (D),2014-10-19,778.0,3.5,45.0,47.0,Colorado,2014,Senate
+Quinnipiac*,2014-10-21,974.0,3.1,46.0,46.0,Colorado,2014,Senate
+Reuters/Ipsos,2014-10-20,1099.0,3.4,43.0,47.0,Colorado,2014,Senate
+CNN/Opinion Research,2014-10-13,665.0,4.0,41.0,50.0,Colorado,2014,Senate
+Denver Post/SurveyUSA*,2014-10-12,591.0,4.1,42.0,45.0,Colorado,2014,Senate
+Quinnipiac*,2014-10-13,988.0,3.1,37.0,47.0,Colorado,2014,Senate
+High Point/SurveyUSA,2014-10-08,800.0,3.5,48.0,46.0,Colorado,2014,Senate
+FOX News,2014-10-07,739.0,3.5,47.0,43.0,Colorado,2014,Senate
+CBS News/NYT/YouGov,2014-10-01,1634.0,3.0,42.0,45.0,Colorado,2014,Senate
+Rasmussen Reports,2014-09-30,950.0,3.0,40.0,48.0,Colorado,2014,Senate
+USA Today/Suffolk*,2014-09-16,500.0,4.4,46.0,43.0,Colorado,2014,Senate
+Quinnipiac*,2014-09-15,1211.0,2.8,44.0,48.0,Colorado,2014,Senate
+Denver Post/SurveyUSA*,2014-09-10,664.0,3.9,48.0,42.0,Colorado,2014,Senate
+Rasmussen Reports,2014-09-04,800.0,4.0,46.0,42.0,Colorado,2014,Senate
+NBC News/Marist,2014-09-04,795.0,3.5,51.0,42.0,Colorado,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,1727.0,4.0,44.0,43.0,Colorado,2014,Senate
+CBS News/NYT/YouGov,2014-07-24,,3.0,42.0,47.0,Colorado,2014,Senate
+PPP (D),2014-07-20,,3.8,48.0,43.0,Colorado,2014,Senate
+Quinnipiac,2014-07-14,,2.9,43.0,44.0,Colorado,2014,Senate
+NBC News/Marist,2014-07-10,,3.2,45.0,41.0,Colorado,2014,Senate
+Rasmussen Reports,2014-06-26,750.0,4.0,47.0,42.0,Colorado,2014,Senate
+Magellan Strategies (R),2014-06-08,747.0,3.5,45.0,47.0,Colorado,2014,Senate
+PPP (D),2014-05-08,,4.3,45.0,43.0,Colorado,2014,Senate
+Magellan Strategies (R),2014-04-15,717.0,3.7,42.0,42.0,Colorado,2014,Senate
+Quinnipiac,2014-04-21,,2.7,42.0,44.0,Colorado,2014,Senate
+rcp_average,2014-10-23,,,51.0,36.0,Delaware,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,461.0,7.0,54.0,25.0,Delaware,2014,Senate
+University of Delaware*,2014-09-22,,,50.0,34.0,Delaware,2014,Senate
+Rasmussen Reports,2014-09-12,750.0,4.0,49.0,36.0,Delaware,2014,Senate
+rcp_average,2014-10-23,,,51.0,35.0,Delaware,2014,Senate
+CBS News/NYT/YouGov,2014-10-01,471.0,5.0,51.0,34.0,Delaware,2014,Senate
+University of Delaware*,2014-09-22,,,50.0,35.0,Delaware,2014,Senate
+Rasmussen Reports,2014-09-12,750.0,4.0,49.0,,Delaware,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,697.0,5.0,48.0,,Delaware,2014,Senate
+rcp_average,,,,51.0,,Delaware,2014,Senate
+rcp_average,2014-11-03,,,44.8,47.8,Georgia,2014,Senate
+WSB-TV/Landmark,2014-11-02,1500.0,2.5,46.0,50.0,Georgia,2014,Senate
+PPP (D),2014-11-03,975.0,3.1,45.0,46.0,Georgia,2014,Senate
+SurveyUSA,2014-11-02,591.0,4.1,44.0,47.0,Georgia,2014,Senate
+InsiderAdvantage,2014-11-02,1463.0,2.6,45.0,48.0,Georgia,2014,Senate
+NBC News/Marist,2014-10-30,603.0,4.0,44.0,48.0,Georgia,2014,Senate
+WSB-TV/Landmark,2014-10-29,1500.0,2.5,47.0,47.0,Georgia,2014,Senate
+YouGov,2014-10-31,1743.0,3.2,42.0,44.0,Georgia,2014,Senate
+SurveyUSA,2014-10-27,611.0,4.0,45.0,48.0,Georgia,2014,Senate
+Atlanta Journal-Constitution,2014-10-23,1170.0,3.6,42.0,44.0,Georgia,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,1774.0,4.0,44.0,47.0,Georgia,2014,Senate
+InsiderAdvantage,2014-10-22,704.0,3.7,47.0,45.0,Georgia,2014,Senate
+WSB-TV/Landmark,2014-10-21,1000.0,2.8,47.0,47.0,Georgia,2014,Senate
+CNN/Opinion Research,2014-10-22,565.0,4.0,47.0,44.0,Georgia,2014,Senate
+SurveyUSA,2014-10-20,606.0,4.1,46.0,44.0,Georgia,2014,Senate
+WRBL/Ledger-Enquirer/PMB,2014-10-14,1543.0,2.5,46.0,45.0,Georgia,2014,Senate
+SurveyUSA,2014-10-13,563.0,4.2,48.0,45.0,Georgia,2014,Senate
+WSB-TV/Landmark,2014-10-09,1000.0,3.1,46.0,46.0,Georgia,2014,Senate
+SurveyUSA,2014-10-06,566.0,4.2,45.0,46.0,Georgia,2014,Senate
+PPP (D),2014-10-05,895.0,3.3,43.0,45.0,Georgia,2014,Senate
+InsiderAdvantage,2014-10-01,947.0,3.2,43.0,47.0,Georgia,2014,Senate
+CBS News/NYT/YouGov,2014-10-01,1851.0,3.0,43.0,47.0,Georgia,2014,Senate
+SurveyUSA,2014-09-22,550.0,4.3,45.0,46.0,Georgia,2014,Senate
+InsiderAdvantage,2014-09-11,1167.0,2.9,40.0,50.0,Georgia,2014,Senate
+WSB-TV/Landmark,2014-09-11,1109.0,2.9,46.0,43.0,Georgia,2014,Senate
+Atlanta Journal-Constitution,2014-09-11,884.0,4.0,41.0,45.0,Georgia,2014,Senate
+SurveyUSA,2014-09-08,558.0,4.2,44.0,47.0,Georgia,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,1900.0,3.0,41.0,47.0,Georgia,2014,Senate
+WRBL/Ledger-Enquirer/PMB,2014-08-25,1578.0,2.5,45.0,43.0,Georgia,2014,Senate
+WSB-TV/Landmark,2014-08-21,600.0,4.0,47.0,40.0,Georgia,2014,Senate
+SurveyUSA,2014-08-17,560.0,4.2,41.0,50.0,Georgia,2014,Senate
+InsiderAdvantage,2014-08-13,719.0,3.7,40.0,47.0,Georgia,2014,Senate
+WSB-TV/Landmark,2014-07-25,750.0,3.8,47.0,43.0,Georgia,2014,Senate
+SurveyUSA,2014-06-05,999.0,3.2,38.0,43.0,Georgia,2014,Senate
+rcp_average,2014-10-23,,,61.7,25.0,Hawaii,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,1002.0,6.0,70.0,18.0,Hawaii,2014,Senate
+Honolulu Civil Beat/MRG,2014-10-19,1221.0,2.8,55.0,29.0,Hawaii,2014,Senate
+Rasmussen Reports,2014-09-10,750.0,4.0,60.0,28.0,Hawaii,2014,Senate
+CBS News/NYT/YouGov,2014-10-01,1319.0,4.0,71.0,17.0,Hawaii,2014,Senate
+Honolulu Civil Beat/MRG,2014-09-14,1055.0,3.0,62.0,25.0,Hawaii,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,655.0,6.0,62.0,27.0,Hawaii,2014,Senate
+CBS News/NYT/YouGov,2014-07-24,,3.0,58.0,22.0,Hawaii,2014,Senate
+rcp_average,,,,61.7,25.0,Hawaii,2014,Senate
+rcp_average,2014-10-23,,,30.3,55.0,Idaho,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,575.0,6.0,30.0,61.0,Idaho,2014,Senate
+PPP (D),2014-10-12,522.0,4.3,32.0,50.0,Idaho,2014,Senate
+Rasmussen Reports,2014-05-29,750.0,4.0,29.0,54.0,Idaho,2014,Senate
+CBS News/NYT/YouGov,2014-10-01,594.0,5.0,27.0,64.0,Idaho,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,844.0,4.0,25.0,59.0,Idaho,2014,Senate
+CBS News/NYT/YouGov,2014-07-24,,4.2,31.0,65.0,Idaho,2014,Senate
+rcp_average,,,,30.3,55.0,Idaho,2014,Senate
+rcp_average,2014-11-02,,,49.8,41.0,Illinois,2014,Senate
+PPP (D)*,2014-11-02,1064.0,3.0,51.0,39.0,Illinois,2014,Senate
+Chicago Sun-Times*,2014-10-28,823.0,3.9,49.0,39.0,Illinois,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,3519.0,3.0,52.0,36.0,Illinois,2014,Senate
+Chicago Tribune*,2014-10-21,800.0,3.5,50.0,37.0,Illinois,2014,Senate
+The Simon Poll/SIU*,2014-10-15,691.0,3.7,47.0,41.0,Illinois,2014,Senate
+rcp_average,2014-11-02,,,49.8,39.0,Illinois,2014,Senate
+Chicago Sun-Times*,2014-10-28,823.0,3.9,49.0,36.0,Illinois,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,3519.0,3.0,52.0,37.0,Illinois,2014,Senate
+Chicago Tribune*,2014-10-21,800.0,3.5,50.0,39.0,Illinois,2014,Senate
+The Simon Poll/SIU*,2014-10-15,691.0,3.7,47.0,37.0,Illinois,2014,Senate
+CBS News/NYT/YouGov,2014-10-01,3955.0,2.0,51.0,32.0,Illinois,2014,Senate
+Rasmussen Reports,2014-09-25,750.0,4.0,51.0,41.0,Illinois,2014,Senate
+Chicago Tribune*,2014-09-12,,3.5,55.0,38.0,Illinois,2014,Senate
+Sun-Times/WeAskAmerica*,2014-08-27,1054.0,3.0,48.0,43.0,Illinois,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,4363.0,3.0,50.0,37.0,Illinois,2014,Senate
+CBS News/NYT/YouGov,2014-07-24,,2.1,51.0,36.0,Illinois,2014,Senate
+Rasmussen Reports,2014-04-10,750.0,4.0,51.0,,Illinois,2014,Senate
+PPP (D),2014-11-25,,4.2,51.0,,Illinois,2014,Senate
+rcp_average,,,,49.8,,Illinois,2014,Senate
+rcp_average,2014-11-03,,,45.7,48.0,Iowa,2014,Senate
+PPP (D)*,2014-11-03,1265.0,2.8,45.0,48.0,Iowa,2014,Senate
+Quinnipiac,2014-11-02,778.0,3.5,47.0,47.0,Iowa,2014,Senate
+Des Moines Register,2014-10-31,701.0,3.7,44.0,51.0,Iowa,2014,Senate
+FOX News,2014-10-30,911.0,3.0,44.0,45.0,Iowa,2014,Senate
+Rasmussen Reports,2014-10-30,990.0,3.0,47.0,48.0,Iowa,2014,Senate
+CNN/Opinion Research,2014-10-30,647.0,4.0,47.0,49.0,Iowa,2014,Senate
+YouGov,2014-10-31,1112.0,4.4,43.0,42.0,Iowa,2014,Senate
+Reuters/Ipsos,2014-10-29,1129.0,3.3,45.0,45.0,Iowa,2014,Senate
+Quinnipiac,2014-10-27,817.0,3.4,45.0,49.0,Iowa,2014,Senate
+Loras College,2014-10-24,1121.0,2.9,45.0,44.0,Iowa,2014,Senate
+NBC News/Marist,2014-10-22,772.0,3.5,46.0,49.0,Iowa,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,2322.0,3.0,44.0,44.0,Iowa,2014,Senate
+Quinnipiac,2014-10-21,964.0,3.2,46.0,48.0,Iowa,2014,Senate
+USA Today/Suffolk*,2014-10-14,500.0,4.4,43.0,47.0,Iowa,2014,Senate
+Quinnipiac,2014-10-13,967.0,3.2,45.0,47.0,Iowa,2014,Senate
+Rasmussen Reports,2014-10-10,957.0,3.0,45.0,48.0,Iowa,2014,Senate
+Des Moines Register/Bloomberg,2014-10-08,1000.0,3.1,46.0,47.0,Iowa,2014,Senate
+Loras College,2014-10-03,600.0,4.0,42.0,42.0,Iowa,2014,Senate
+NBC News/Marist,2014-10-01,778.0,3.5,44.0,46.0,Iowa,2014,Senate
+CBS News/NYT/YouGov,2014-10-01,2359.0,2.0,44.0,43.0,Iowa,2014,Senate
+PPP (D),2014-09-28,1192.0,2.8,43.0,45.0,Iowa,2014,Senate
+Des Moines Register*,2014-09-24,546.0,4.2,38.0,44.0,Iowa,2014,Senate
+Rasmussen Reports,2014-09-18,750.0,4.0,43.0,43.0,Iowa,2014,Senate
+FOX News,2014-09-16,600.0,4.0,41.0,41.0,Iowa,2014,Senate
+Quinnipiac,2014-09-15,1167.0,2.9,44.0,50.0,Iowa,2014,Senate
+CNN/Opinion Research,2014-09-10,608.0,4.0,49.0,48.0,Iowa,2014,Senate
+Loras College,2014-09-05,1200.0,2.8,45.0,41.0,Iowa,2014,Senate
+USA Today/Suffolk*,2014-08-26,500.0,4.4,40.0,40.0,Iowa,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,1764.0,3.0,44.0,42.0,Iowa,2014,Senate
+PPP (D),2014-08-24,915.0,3.2,42.0,42.0,Iowa,2014,Senate
+Rasmussen Reports,2014-08-12,750.0,4.0,43.0,43.0,Iowa,2014,Senate
+CBS News/NYT/YouGov,2014-07-24,,2.7,47.0,48.0,Iowa,2014,Senate
+NBC News/Marist,2014-07-13,,2.5,43.0,43.0,Iowa,2014,Senate
+Quinnipiac,2014-06-16,,2.7,44.0,40.0,Iowa,2014,Senate
+Loras College,2014-06-05,600.0,4.0,42.0,48.0,Iowa,2014,Senate
+Rasmussen Reports,2014-06-05,750.0,4.0,44.0,45.0,Iowa,2014,Senate
+PPP (D),2014-05-19,,3.3,45.0,39.0,Iowa,2014,Senate
+CEA/Hickman Analytics (D),2014-04-30,500.0,4.4,44.0,40.0,Iowa,2014,Senate
+Suffolk,2014-04-08,800.0,3.5,38.0,30.0,Iowa,2014,Senate
+Rasmussen Reports,2014-03-25,750.0,4.0,40.0,37.0,Iowa,2014,Senate
+Quinnipiac,2014-03-10,,2.6,42.0,29.0,Iowa,2014,Senate
+PPP (D),2014-02-23,,3.3,41.0,35.0,Iowa,2014,Senate
+Quinnipiac,2014-12-15,,,44.0,38.0,Iowa,2014,Senate
+Harper (R),2014-11-24,985.0,3.1,42.0,36.0,Iowa,2014,Senate
+PPP (D),2014-07-07,,3.8,45.0,33.0,Iowa,2014,Senate
+rcp_average,,,,45.7,48.0,Iowa,2014,Senate
+rcp_average,2014-11-01,,,41.8,49.0,Kentucky,2014,Senate
+NBC News/Marist*,2014-10-30,556.0,4.2,41.0,50.0,Kentucky,2014,Senate
+PPP (D)*,2014-11-01,1503.0,2.5,42.0,50.0,Kentucky,2014,Senate
+Courier-Journal/SurveyUSA*,2014-10-29,597.0,4.1,43.0,48.0,Kentucky,2014,Senate
+CBS News/NYT/YouGov*,2014-10-23,1502.0,4.0,39.0,45.0,Kentucky,2014,Senate
+Rasmussen Reports,2014-10-16,1000.0,3.0,44.0,52.0,Kentucky,2014,Senate
+Courier-Journal/SurveyUSA*,2014-10-19,655.0,3.9,43.0,44.0,Kentucky,2014,Senate
+Western Kentucky Univ.*,2014-10-19,,4.1,42.0,45.0,Kentucky,2014,Senate
+FOX News*,2014-10-07,706.0,3.5,41.0,45.0,Kentucky,2014,Senate
+Courier-Journal/SurveyUSA*,2014-10-02,632.0,4.0,46.0,44.0,Kentucky,2014,Senate
+CBS News/NYT/YouGov*,2014-10-01,1689.0,3.0,41.0,47.0,Kentucky,2014,Senate
+Reuters/Ipsos,2014-09-12,944.0,3.6,42.0,46.0,Kentucky,2014,Senate
+NBC News/Marist*,2014-09-04,691.0,3.7,39.0,47.0,Kentucky,2014,Senate
+Rasmussen Reports,2014-09-02,750.0,4.0,41.0,46.0,Kentucky,2014,Senate
+CNN/Opinion Research,2014-09-01,671.0,4.0,46.0,50.0,Kentucky,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,2130.0,3.0,42.0,47.0,Kentucky,2014,Senate
+Courier-Journal/SurveyUSA*,2014-08-27,569.0,4.2,42.0,46.0,Kentucky,2014,Senate
+PPP (D),2014-08-10,991.0,3.1,42.0,47.0,Kentucky,2014,Senate
+Courier-Journal/SurveyUSA,2014-07-23,604.0,4.1,45.0,47.0,Kentucky,2014,Senate
+CBS News/NYT/YouGov,2014-07-24,,4.2,46.0,50.0,Kentucky,2014,Senate
+Magellan Strategies (R),2014-06-05,808.0,3.5,49.0,46.0,Kentucky,2014,Senate
+Rasmussen Reports,2014-05-29,750.0,4.0,41.0,48.0,Kentucky,2014,Senate
+Wenzel Strategies (R),2014-05-24,608.0,4.0,44.0,47.0,Kentucky,2014,Senate
+Courier-Journal/SurveyUSA*,2014-05-16,1475.0,2.6,43.0,42.0,Kentucky,2014,Senate
+NBC News/Marist,2014-05-06,,2.0,45.0,46.0,Kentucky,2014,Senate
+CEA/Hickman Analytics (D),2014-04-30,500.0,4.4,45.0,46.0,Kentucky,2014,Senate
+NY Times/Kaiser,2014-04-15,,4.0,43.0,44.0,Kentucky,2014,Senate
+Wenzel Strategies (R),2014-02-11,1002.0,3.1,42.0,43.0,Kentucky,2014,Senate
+Courier-Journal/SurveyUSA,2014-02-03,,3.0,46.0,42.0,Kentucky,2014,Senate
+Rasmussen Reports,2014-01-30,500.0,4.5,42.0,42.0,Kentucky,2014,Senate
+PPP (D),2014-12-15,,2.5,42.0,43.0,Kentucky,2014,Senate
+Wenzel Strategies (R),2014-07-24,624.0,3.9,40.0,48.0,Kentucky,2014,Senate
+Wenzel Strategies (R),2014-06-02,623.0,3.9,40.0,47.0,Kentucky,2014,Senate
+PPP (D),2014-04-07,,3.0,41.0,45.0,Kentucky,2014,Senate
+PPP (D),2014-12-09,,2.8,40.0,47.0,Kentucky,2014,Senate
+rcp_average,,,,41.8,49.0,Kentucky,2014,Senate
+rcp_average,2014-11-02,,,32.2,61.4,Maine,2014,Senate
+MPRC (D),2014-11-02,906.0,3.3,37.0,57.0,Maine,2014,Senate
+Bangor Daily News/Ipsos,2014-10-29,488.0,5.1,32.0,64.0,Maine,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,1177.0,5.0,35.0,54.0,Maine,2014,Senate
+Pan Atlantic SMS,2014-10-21,400.0,4.9,27.0,67.0,Maine,2014,Senate
+Portland Press Herald,2014-10-21,667.0,3.8,30.0,65.0,Maine,2014,Senate
+Bangor Daily News/Ipsos*,2014-10-12,540.0,4.8,31.0,56.0,Maine,2014,Senate
+Pan Atlantic SMS,2014-09-29,400.0,4.9,25.0,68.0,Maine,2014,Senate
+CBS News/NYT/YouGov,2014-10-01,1531.0,3.0,33.0,57.0,Maine,2014,Senate
+Portland Press Herald,2014-09-25,482.0,4.4,29.0,59.0,Maine,2014,Senate
+Rasmussen Reports,2014-09-04,750.0,4.0,31.0,59.0,Maine,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,1202.0,4.0,26.0,58.0,Maine,2014,Senate
+CBS News/NYT/YouGov,2014-07-24,,2.7,29.0,65.0,Maine,2014,Senate
+Portland Press Herald,2014-06-18,527.0,4.3,17.0,72.0,Maine,2014,Senate
+Rasmussen Reports,2014-04-25,830.0,3.0,24.0,60.0,Maine,2014,Senate
+PPP (D),2014-11-11,,3.2,20.0,59.0,Maine,2014,Senate
+rcp_average,,,,32.2,61.4,Maine,2014,Senate
+rcp_average,2014-11-01,,,53.0,35.0,Massachusetts,2014,Senate
+PPP (D),2014-11-01,887.0,3.3,52.0,38.0,Massachusetts,2014,Senate
+Suffolk/Boston Herald,2014-10-29,500.0,4.4,49.0,34.0,Massachusetts,2014,Senate
+Western NE University,2014-10-30,430.0,5.0,54.0,34.0,Massachusetts,2014,Senate
+WBUR/MassINC,2014-10-25,494.0,4.4,57.0,32.0,Massachusetts,2014,Senate
+UMass Amherst/WBZ,2014-10-27,591.0,4.5,53.0,37.0,Massachusetts,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,2218.0,3.0,54.0,32.0,Massachusetts,2014,Senate
+WBUR/MassINC,2014-10-04,504.0,4.4,56.0,30.0,Massachusetts,2014,Senate
+CBS News/NYT/YouGov,2014-10-01,2389.0,2.0,54.0,31.0,Massachusetts,2014,Senate
+Suffolk/Boston Herald,2014-09-28,500.0,4.4,54.0,30.0,Massachusetts,2014,Senate
+Western NE University,2014-09-28,416.0,5.0,56.0,34.0,Massachusetts,2014,Senate
+WBUR/MassINC,2014-09-21,502.0,4.4,58.0,30.0,Massachusetts,2014,Senate
+Rasmussen Reports,2014-09-17,750.0,4.0,49.0,31.0,Massachusetts,2014,Senate
+Boston Globe,2014-09-16,407.0,4.9,53.0,27.0,Massachusetts,2014,Senate
+CBS News/NYT/YouGov,2014-07-24,,4.9,61.0,34.0,Massachusetts,2014,Senate
+rcp_average,,,,53.0,35.0,Massachusetts,2014,Senate
+rcp_average,2014-11-02,,,50.4,37.6,Michigan,2014,Senate
+FOX 2 Detroit/Mitchell*,2014-11-02,1224.0,2.8,52.0,40.0,Michigan,2014,Senate
+PPP (D)*,2014-11-02,914.0,3.2,51.0,38.0,Michigan,2014,Senate
+EPIC-MRA,2014-10-28,600.0,4.0,50.0,35.0,Michigan,2014,Senate
+Detroit News*,2014-10-24,600.0,4.0,48.0,33.0,Michigan,2014,Senate
+Rasmussen Reports,2014-10-22,1000.0,3.0,51.0,42.0,Michigan,2014,Senate
+FOX 2 Detroit/Mitchell*,2014-10-27,1159.0,2.9,52.0,38.0,Michigan,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,2394.0,3.0,49.0,41.0,Michigan,2014,Senate
+EPIC-MRA,2014-10-19,600.0,4.0,45.0,34.0,Michigan,2014,Senate
+FOX 2 Detroit/Mitchell*,2014-10-19,919.0,3.2,51.0,38.0,Michigan,2014,Senate
+FOX 2 Detroit/Mitchell*,2014-10-12,1340.0,2.7,50.0,39.0,Michigan,2014,Senate
+FOX 2 Detroit/Mitchell*,2014-10-09,1306.0,2.7,48.0,43.0,Michigan,2014,Senate
+Detroit News*,2014-10-04,600.0,4.0,44.0,35.0,Michigan,2014,Senate
+MRG (R),2014-10-01,600.0,4.0,47.0,36.0,Michigan,2014,Senate
+FOX 2 Detroit/Mitchell*,2014-09-29,1178.0,2.9,49.0,36.0,Michigan,2014,Senate
+CBS News/NYT/YouGov,2014-10-01,2560.0,2.0,46.0,41.0,Michigan,2014,Senate
+EPIC-MRA*,2014-09-29,600.0,4.0,42.0,33.0,Michigan,2014,Senate
+Target-Insyght/MIRS,2014-09-24,600.0,4.0,48.0,38.0,Michigan,2014,Senate
+WeAskAmerica*,2014-09-19,1182.0,3.0,42.0,39.0,Michigan,2014,Senate
+Rasmussen Reports,2014-09-18,750.0,4.0,41.0,39.0,Michigan,2014,Senate
+Magellan Strategies (R)*,2014-09-15,717.0,3.7,45.0,40.0,Michigan,2014,Senate
+Mitchell Research*,2014-09-14,829.0,3.4,43.0,41.0,Michigan,2014,Senate
+Vanguard/Denno Research (D),2014-09-13,600.0,4.0,45.0,38.0,Michigan,2014,Senate
+USA Today/Suffolk*,2014-09-10,500.0,4.4,46.0,37.0,Michigan,2014,Senate
+PPP (D),2014-09-07,687.0,3.7,45.0,40.0,Michigan,2014,Senate
+Detroit News,2014-09-05,600.0,4.0,47.0,37.0,Michigan,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,2897.0,3.0,42.0,43.0,Michigan,2014,Senate
+Mitchell Research,2014-08-27,1004.0,3.1,46.0,44.0,Michigan,2014,Senate
+EPIC-MRA,2014-08-25,600.0,4.0,45.0,39.0,Michigan,2014,Senate
+Harper (R),2014-08-05,549.0,4.2,45.0,44.0,Michigan,2014,Senate
+Mitchell Research,2014-08-05,626.0,5.0,45.0,44.0,Michigan,2014,Senate
+Rasmussen Reports,2014-07-29,750.0,4.0,45.0,39.0,Michigan,2014,Senate
+MRG (R),2014-07-30,600.0,4.0,47.0,40.0,Michigan,2014,Senate
+CBS News/NYT/YouGov,2014-07-24,,2.8,47.0,48.0,Michigan,2014,Senate
+EPIC-MRA,2014-07-15,600.0,4.0,45.0,36.0,Michigan,2014,Senate
+Mitchell Research,2014-07-17,600.0,4.0,43.0,38.0,Michigan,2014,Senate
+Vanguard/Denno Research (D),2014-07-11,600.0,4.0,40.0,37.0,Michigan,2014,Senate
+NBC News/Marist,2014-07-10,,3.3,43.0,37.0,Michigan,2014,Senate
+PPP (D),2014-06-29,,4.1,41.0,36.0,Michigan,2014,Senate
+Magellan Strategies (R),2014-06-08,753.0,3.6,50.0,41.0,Michigan,2014,Senate
+Mitchell Research,2014-06-06,961.0,3.2,45.0,42.0,Michigan,2014,Senate
+Detroit News,2014-05-22,600.0,4.0,40.0,35.0,Michigan,2014,Senate
+EPIC-MRA,2014-05-20,600.0,4.0,44.0,38.0,Michigan,2014,Senate
+CEA/Hickman Analytics (D),2014-04-30,502.0,4.4,42.0,37.0,Michigan,2014,Senate
+Magellan Strategies (R),2014-04-15,875.0,3.3,46.0,41.0,Michigan,2014,Senate
+Mitchell Research,2014-04-09,1460.0,2.6,38.0,44.0,Michigan,2014,Senate
+PPP (D),2014-04-06,,3.4,41.0,36.0,Michigan,2014,Senate
+MRG (R),2014-03-28,600.0,4.1,38.0,40.0,Michigan,2014,Senate
+LEu0026amp;A/Denno Research (D),2014-03-10,600.0,4.0,40.0,37.0,Michigan,2014,Senate
+EPIC-MRA,2014-02-11,600.0,4.0,38.0,41.0,Michigan,2014,Senate
+Rasmussen Reports,2014-01-15,500.0,4.5,35.0,37.0,Michigan,2014,Senate
+Harper (R),2014-01-08,1004.0,3.1,36.0,44.0,Michigan,2014,Senate
+PPP (D),2014-12-08,,3.0,40.0,42.0,Michigan,2014,Senate
+LEu0026amp;A/Denno Research (D),2014-11-14,600.0,4.0,37.0,36.0,Michigan,2014,Senate
+Inside Michigan Politics,2014-10-29,794.0,4.0,43.0,38.0,Michigan,2014,Senate
+EPIC-MRA,2014-09-10,600.0,4.0,38.0,37.0,Michigan,2014,Senate
+LEu0026amp;A/Denno Research (D),2014-07-24,600.0,4.0,39.0,39.0,Michigan,2014,Senate
+PPP (D),2014-06-02,,3.7,41.0,36.0,Michigan,2014,Senate
+Mitchell Research,2014-03-21,571.0,4.1,33.0,32.0,Michigan,2014,Senate
+Harper (R),2014-03-10,1744.0,2.4,21.0,29.0,Michigan,2014,Senate
+rcp_average,,,,50.4,37.6,Michigan,2014,Senate
+rcp_average,2014-10-30,,,51.0,40.0,Minnesota,2014,Senate
+KSTP/SurveyUSA*,2014-10-30,596.0,4.1,48.0,39.0,Minnesota,2014,Senate
+Star Tribune/Mason-Dixon*,2014-10-22,800.0,3.5,51.0,41.0,Minnesota,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,2430.0,3.0,51.0,40.0,Minnesota,2014,Senate
+rcp_average,2014-10-30,,,48.0,39.0,Minnesota,2014,Senate
+KSTP/SurveyUSA*,2014-10-30,596.0,4.1,51.0,41.0,Minnesota,2014,Senate
+Star Tribune/Mason-Dixon*,2014-10-22,800.0,3.5,53.0,38.0,Minnesota,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,2430.0,3.0,55.0,37.0,Minnesota,2014,Senate
+KSTP/SurveyUSA*,2014-10-16,597.0,4.1,49.0,42.0,Minnesota,2014,Senate
+KSTP/SurveyUSA*,2014-10-02,577.0,4.1,49.0,41.0,Minnesota,2014,Senate
+CBS News/NYT/YouGov,2014-10-01,2562.0,2.0,49.0,36.0,Minnesota,2014,Senate
+Rasmussen Reports,2014-09-30,750.0,4.0,49.0,41.0,Minnesota,2014,Senate
+Star Tribune/Mason-Dixon*,2014-09-10,800.0,3.5,51.0,42.0,Minnesota,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,3607.0,2.0,50.0,42.0,Minnesota,2014,Senate
+KSTP/SurveyUSA*,2014-08-21,600.0,4.1,55.0,41.0,Minnesota,2014,Senate
+Rasmussen Reports,2014-08-14,750.0,4.0,49.0,38.0,Minnesota,2014,Senate
+CBS News/NYT/YouGov,2014-07-24,,2.0,48.0,42.0,Minnesota,2014,Senate
+PPP (D),2014-06-15,,3.9,44.0,29.0,Minnesota,2014,Senate
+KSTP/SurveyUSA*,2014-06-09,1017.0,3.1,50.0,40.0,Minnesota,2014,Senate
+Suffolk*,2014-04-28,800.0,3.5,49.0,38.0,Minnesota,2014,Senate
+KSTP/SurveyUSA,2014-02-27,,4.3,51.0,36.0,Minnesota,2014,Senate
+rcp_average,2014-10-23,,,29.3,45.7,Mississippi,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,654.0,7.0,28.0,50.0,Mississippi,2014,Senate
+PPP (D),2014-07-13,,3.7,26.0,41.0,Mississippi,2014,Senate
+Rasmussen Reports,2014-06-26,750.0,4.0,34.0,46.0,Mississippi,2014,Senate
+CBS News/NYT/YouGov,2014-10-01,826.0,4.0,35.0,46.0,Mississippi,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,976.0,4.0,31.0,46.0,Mississippi,2014,Senate
+CBS News/NYT/YouGov,2014-07-24,,5.7,33.0,47.0,Mississippi,2014,Senate
+Rasmussen Reports,2014-03-29,750.0,4.0,31.0,48.0,Mississippi,2014,Senate
+PPP (D),2014-11-17,,4.4,33.0,50.0,Mississippi,2014,Senate
+rcp_average,,,,29.3,45.7,Mississippi,2014,Senate
+rcp_average,2014-10-23,,,34.7,52.7,Montana,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,497.0,6.0,38.0,56.0,Montana,2014,Senate
+MSU-Billings,2014-10-11,410.0,5.0,31.0,47.0,Montana,2014,Senate
+Rasmussen Reports,2014-08-19,750.0,4.0,35.0,55.0,Montana,2014,Senate
+CBS News/NYT/YouGov,2014-10-01,549.0,5.0,34.0,55.0,Montana,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,684.0,5.0,35.0,53.0,Montana,2014,Senate
+rcp_average,,,,34.7,52.7,Montana,2014,Senate
+rcp_average,2014-11-03,,,48.8,48.0,New Hampshire,2014,Senate
+PPP (D),2014-11-03,1690.0,2.4,50.0,48.0,New Hampshire,2014,Senate
+New England College,2014-11-01,1526.0,2.5,48.0,49.0,New Hampshire,2014,Senate
+WMUR/UNH,2014-11-02,757.0,3.6,49.0,48.0,New Hampshire,2014,Senate
+Rasmussen Reports,2014-10-30,940.0,3.0,52.0,45.0,New Hampshire,2014,Senate
+ARG,2014-10-29,600.0,4.0,49.0,49.0,New Hampshire,2014,Senate
+Vox Populi (R),2014-10-28,638.0,3.9,45.0,49.0,New Hampshire,2014,Senate
+WMUR/UNH,2014-10-26,555.0,4.2,50.0,42.0,New Hampshire,2014,Senate
+New England College,2014-10-24,1132.0,2.9,47.0,48.0,New Hampshire,2014,Senate
+ARG,2014-10-22,600.0,4.0,49.0,48.0,New Hampshire,2014,Senate
+CNN/Opinion Research,2014-10-21,645.0,4.0,49.0,47.0,New Hampshire,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,1042.0,4.0,46.0,41.0,New Hampshire,2014,Senate
+UMass Lowell/7News,2014-10-21,643.0,4.5,49.0,46.0,New Hampshire,2014,Senate
+Suffolk/Boston Herald,2014-10-19,500.0,4.4,49.0,46.0,New Hampshire,2014,Senate
+New England College,2014-10-16,921.0,3.2,47.0,48.0,New Hampshire,2014,Senate
+UMass Amherst/WBZ,2014-10-15,322.0,6.6,48.0,45.0,New Hampshire,2014,Senate
+New England College,2014-10-09,1081.0,3.0,47.0,48.0,New Hampshire,2014,Senate
+High Point/SurveyUSA,2014-10-08,824.0,3.5,48.0,46.0,New Hampshire,2014,Senate
+WMUR/UNH,2014-10-05,532.0,4.2,47.0,41.0,New Hampshire,2014,Senate
+New England College,2014-10-03,1286.0,2.7,49.0,46.0,New Hampshire,2014,Senate
+CBS News/NYT/YouGov,2014-10-01,1260.0,3.0,48.0,41.0,New Hampshire,2014,Senate
+ARG,2014-09-29,600.0,4.0,53.0,43.0,New Hampshire,2014,Senate
+New England College,2014-09-26,1331.0,2.7,47.0,47.0,New Hampshire,2014,Senate
+New England College,2014-09-20,1494.0,2.5,50.0,43.0,New Hampshire,2014,Senate
+Vox Populi (R),2014-09-16,,4.2,43.0,47.0,New Hampshire,2014,Senate
+ARG,2014-09-15,,,50.0,45.0,New Hampshire,2014,Senate
+New England College,2014-09-11,630.0,4.0,51.0,40.0,New Hampshire,2014,Senate
+Rasmussen Reports,2014-09-11,750.0,4.0,48.0,42.0,New Hampshire,2014,Senate
+CNN/Opinion Research,2014-09-11,735.0,3.5,48.0,48.0,New Hampshire,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,1159.0,4.0,47.0,41.0,New Hampshire,2014,Senate
+WMUR/UNH,2014-08-17,609.0,4.0,46.0,44.0,New Hampshire,2014,Senate
+CBS News/NYT/YouGov,2014-07-24,,2.9,52.0,42.0,New Hampshire,2014,Senate
+NBC News/Marist,2014-07-13,,2.7,50.0,42.0,New Hampshire,2014,Senate
+WMUR/UNH,2014-07-01,509.0,4.3,52.0,40.0,New Hampshire,2014,Senate
+ARG,2014-06-18,,4.2,50.0,38.0,New Hampshire,2014,Senate
+Suffolk/Boston Herald*,2014-06-18,800.0,3.5,49.0,39.0,New Hampshire,2014,Senate
+Vox Populi (R),2014-05-15,,3.6,47.0,35.0,New Hampshire,2014,Senate
+CEA/Hickman Analytics (D),2014-04-30,400.0,4.9,49.0,43.0,New Hampshire,2014,Senate
+Dartmouth,2014-04-25,,4.8,39.0,36.0,New Hampshire,2014,Senate
+WMUR/UNH,2014-04-09,387.0,5.0,45.0,39.0,New Hampshire,2014,Senate
+ARG,2014-03-16,,4.2,50.0,38.0,New Hampshire,2014,Senate
+Rasmussen Reports,2014-03-13,750.0,4.0,50.0,41.0,New Hampshire,2014,Senate
+Suffolk/Boston Herald,2014-03-05,800.0,3.5,52.0,39.0,New Hampshire,2014,Senate
+WMUR/UNH,2014-01-26,454.0,,47.0,37.0,New Hampshire,2014,Senate
+Purple Strategies,2014-01-23,1052.0,3.0,44.0,44.0,New Hampshire,2014,Senate
+PPP (D),2014-01-12,,2.7,46.0,43.0,New Hampshire,2014,Senate
+ARG,2014-12-16,,4.2,48.0,38.0,New Hampshire,2014,Senate
+PPP (D),2014-09-16,,3.0,48.0,44.0,New Hampshire,2014,Senate
+New England College,2014-05-05,,3.3,54.0,35.0,New Hampshire,2014,Senate
+Dartmouth,2014-04-25,,4.7,44.0,30.0,New Hampshire,2014,Senate
+rcp_average,,,,48.8,48.0,New Hampshire,2014,Senate
+rcp_average,2014-11-02,,,53.8,38.4,New Jersey,2014,Senate
+Monmouth,2014-11-02,750.0,3.6,54.0,40.0,New Jersey,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,1868.0,4.0,51.0,39.0,New Jersey,2014,Senate
+Richard Stockton College,2014-10-22,806.0,3.5,57.0,33.0,New Jersey,2014,Senate
+Fairleigh Dickinson,2014-10-19,525.0,4.3,56.0,40.0,New Jersey,2014,Senate
+Quinnipiac,2014-09-29,1058.0,3.0,51.0,40.0,New Jersey,2014,Senate
+Richard Stockton College,2014-10-08,810.0,3.5,48.0,39.0,New Jersey,2014,Senate
+Monmouth,2014-10-05,477.0,4.5,53.0,38.0,New Jersey,2014,Senate
+CBS News/NYT/YouGov,2014-10-01,2011.0,3.0,51.0,37.0,New Jersey,2014,Senate
+Richard Stockton College,2014-09-08,807.0,3.5,49.0,36.0,New Jersey,2014,Senate
+Fairleigh Dickinson,2014-09-07,,3.7,42.0,29.0,New Jersey,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,2244.0,3.0,52.0,37.0,New Jersey,2014,Senate
+Quinnipiac,2014-08-04,,2.9,47.0,37.0,New Jersey,2014,Senate
+CBS News/NYT/YouGov,2014-07-24,,3.4,50.0,43.0,New Jersey,2014,Senate
+Rasmussen Reports,2014-06-18,750.0,4.0,48.0,35.0,New Jersey,2014,Senate
+Monmouth,2014-06-29,,3.7,43.0,23.0,New Jersey,2014,Senate
+rcp_average,,,,53.8,38.4,New Jersey,2014,Senate
+Albuquerque Journal,2014-10-23,614.0,4.0,50.0,43.0,New Mexico,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,962.0,6.0,52.0,36.0,New Mexico,2014,Senate
+CBS News/NYT/YouGov,2014-10-01,1093.0,4.0,53.0,35.0,New Mexico,2014,Senate
+Rasmussen Reports,2014-09-23,830.0,4.0,52.0,39.0,New Mexico,2014,Senate
+Albuquerque Journal,2014-09-11,603.0,4.0,51.0,38.0,New Mexico,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,1096.0,4.0,54.0,36.0,New Mexico,2014,Senate
+Albuquerque Journal,2014-08-14,606.0,4.0,53.0,35.0,New Mexico,2014,Senate
+Rasmussen Reports,2014-07-22,860.0,4.0,54.0,33.0,New Mexico,2014,Senate
+CBS News/NYT/YouGov,2014-07-24,,3.6,52.0,44.0,New Mexico,2014,Senate
+PPP (D),2014-03-23,,3.8,53.0,33.0,New Mexico,2014,Senate
+Albuquerque Journal,,614.0,4.0,50.0,43.0,New Mexico,2014,Senate
+rcp_average,2014-11-03,,,45.2,46.0,North Carolina,2014,Senate
+PPP (D),2014-11-03,1333.0,2.7,48.0,43.0,North Carolina,2014,Senate
+Civitas (R),2014-10-30,600.0,4.0,45.0,42.0,North Carolina,2014,Senate
+FOX News*,2014-10-30,909.0,3.0,43.0,48.0,North Carolina,2014,Senate
+Harper (R),2014-10-30,511.0,4.3,45.0,46.0,North Carolina,2014,Senate
+CNN/Opinion Research*,2014-10-30,559.0,4.0,48.0,46.0,North Carolina,2014,Senate
+Rasmussen Reports,2014-10-29,982.0,3.0,47.0,41.0,North Carolina,2014,Senate
+YouGov*,2014-10-31,1727.0,3.0,44.0,41.0,North Carolina,2014,Senate
+Elon University,2014-10-25,687.0,3.7,45.0,44.0,North Carolina,2014,Senate
+High Point/SurveyUSA*,2014-10-25,802.0,3.5,44.0,43.0,North Carolina,2014,Senate
+NBC News/Marist*,2014-10-23,756.0,3.6,43.0,46.0,North Carolina,2014,Senate
+rcp_average,2014-11-03,,,45.2,43.0,North Carolina,2014,Senate
+PPP (D),2014-11-03,1333.0,2.7,48.0,42.0,North Carolina,2014,Senate
+Civitas (R),2014-10-30,600.0,4.0,45.0,48.0,North Carolina,2014,Senate
+FOX News*,2014-10-30,909.0,3.0,43.0,46.0,North Carolina,2014,Senate
+CNN/Opinion Research*,2014-10-30,559.0,4.0,48.0,41.0,North Carolina,2014,Senate
+YouGov*,2014-10-31,1727.0,3.0,44.0,44.0,North Carolina,2014,Senate
+Elon University,2014-10-25,687.0,3.7,45.0,43.0,North Carolina,2014,Senate
+High Point/SurveyUSA*,2014-10-25,802.0,3.5,44.0,41.0,North Carolina,2014,Senate
+NBC News/Marist*,2014-10-23,756.0,3.6,43.0,43.0,North Carolina,2014,Senate
+CBS News/NYT/YouGov*,2014-10-23,1910.0,4.0,44.0,44.0,North Carolina,2014,Senate
+SurveyUSA*,2014-10-20,568.0,4.2,46.0,44.0,North Carolina,2014,Senate
+PPP (D),2014-10-18,780.0,3.5,47.0,46.0,North Carolina,2014,Senate
+Civitas (R),2014-10-18,,4.0,44.0,46.0,North Carolina,2014,Senate
+SurveyUSA,2014-10-12,554.0,4.2,45.0,40.0,North Carolina,2014,Senate
+Rasmussen Reports,2014-10-07,970.0,3.0,48.0,45.0,North Carolina,2014,Senate
+High Point*,2014-10-09,584.0,4.1,40.0,40.0,North Carolina,2014,Senate
+USA Today/Suffolk*,2014-10-07,500.0,4.4,47.0,45.0,North Carolina,2014,Senate
+NBC News/Marist*,2014-10-01,665.0,3.8,44.0,43.0,North Carolina,2014,Senate
+CBS News/NYT/YouGov*,2014-10-01,2002.0,3.0,46.0,43.0,North Carolina,2014,Senate
+CNN/Opinion Research*,2014-09-25,595.0,4.0,46.0,40.0,North Carolina,2014,Senate
+Civitas (R),2014-09-28,,4.0,50.0,36.0,North Carolina,2014,Senate
+High Point*,2014-09-18,410.0,5.0,42.0,42.0,North Carolina,2014,Senate
+FOX News*,2014-09-16,605.0,4.0,41.0,46.0,North Carolina,2014,Senate
+PPP (D),2014-09-14,1266.0,2.8,46.0,39.0,North Carolina,2014,Senate
+SurveyUSA/Civitas (R),2014-09-10,490.0,4.5,47.0,40.0,North Carolina,2014,Senate
+Rasmussen Reports,2014-09-10,1000.0,4.0,45.0,41.0,North Carolina,2014,Senate
+American Insights (R),2014-09-10,459.0,4.6,50.0,43.0,North Carolina,2014,Senate
+Elon University,2014-09-09,629.0,3.9,45.0,43.0,North Carolina,2014,Senate
+CBS News/NYT/YouGov*,2014-09-02,2059.0,3.0,42.0,42.0,North Carolina,2014,Senate
+USA Today/Suffolk*,2014-08-19,500.0,4.4,45.0,45.0,North Carolina,2014,Senate
+PPP (D),2014-08-17,865.0,3.4,43.0,47.0,North Carolina,2014,Senate
+Rasmussen Reports,2014-08-06,750.0,4.0,40.0,39.0,North Carolina,2014,Senate
+Civitas (R),2014-07-29,,4.0,46.0,48.0,North Carolina,2014,Senate
+PPP (D),2014-07-20,,3.0,42.0,46.0,North Carolina,2014,Senate
+CBS News/NYT/YouGov,2014-07-24,,3.5,47.0,38.0,North Carolina,2014,Senate
+Civitas (R),2014-06-22,,4.0,48.0,46.0,North Carolina,2014,Senate
+PPP (D),2014-06-15,,3.0,42.0,48.0,North Carolina,2014,Senate
+Magellan Strategies (R),2014-06-08,700.0,3.7,47.0,41.0,North Carolina,2014,Senate
+Civitas (R),2014-05-22,,4.0,43.0,45.0,North Carolina,2014,Senate
+PPP (D),2014-05-11,,3.3,41.0,43.0,North Carolina,2014,Senate
+Rasmussen Reports,2014-05-08,750.0,4.0,44.0,40.0,North Carolina,2014,Senate
+Magellan Strategies (R),2014-04-15,804.0,3.5,43.0,41.0,North Carolina,2014,Senate
+NY Times/Kaiser,2014-04-15,,4.0,42.0,46.0,North Carolina,2014,Senate
+PPP (D),2014-04-06,,3.6,43.0,43.0,North Carolina,2014,Senate
+SurveyUSA,2014-03-31,1489.0,2.6,45.0,41.0,North Carolina,2014,Senate
+PPP (D),2014-03-09,,3.3,45.0,35.0,North Carolina,2014,Senate
+CEA/Hickman Analytics (D),2014-02-20,400.0,4.9,45.0,42.0,North Carolina,2014,Senate
+American Insights (R),2014-02-15,,4.0,38.0,47.0,North Carolina,2014,Senate
+PPP (D),2014-02-09,,3.7,40.0,43.0,North Carolina,2014,Senate
+Rasmussen Reports,2014-01-23,500.0,4.5,40.0,42.0,North Carolina,2014,Senate
+PPP (D),2014-01-12,,2.6,42.0,42.0,North Carolina,2014,Senate
+PPP (D),2014-12-08,,2.7,44.0,36.0,North Carolina,2014,Senate
+PPP (D),2014-11-11,,3.7,44.0,39.0,North Carolina,2014,Senate
+PPP (D),2014-09-09,,4.0,51.0,38.0,North Carolina,2014,Senate
+PPP (D),2014-08-11,,4.0,47.0,40.0,North Carolina,2014,Senate
+PPP (D),2014-07-14,,4.0,49.0,41.0,North Carolina,2014,Senate
+PPP (D),2014-06-14,,4.4,45.0,39.0,North Carolina,2014,Senate
+PPP (D),2014-05-20,,4.4,48.0,36.0,North Carolina,2014,Senate
+PPP (D),2014-04-14,,4.0,49.0,38.0,North Carolina,2014,Senate
+PPP (D),2014-03-10,,4.0,50.0,37.0,North Carolina,2014,Senate
+PPP (D),2014-02-10,,4.0,46.0,38.0,North Carolina,2014,Senate
+PPP (D),2014-01-13,,4.0,47.0,,North Carolina,2014,Senate
+PPP (D),2014-12-09,,4.1,48.0,,North Carolina,2014,Senate
+rcp_average,,,,45.2,,North Carolina,2014,Senate
+rcp_average,2014-10-29,,,28.7,60.0,Oklahoma,2014,Senate
+Sooner Poll/News 9/News on 6*,2014-10-29,949.0,3.2,28.0,59.0,Oklahoma,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,995.0,5.0,29.0,63.0,Oklahoma,2014,Senate
+Rasmussen Reports,2014-08-28,750.0,4.0,29.0,58.0,Oklahoma,2014,Senate
+CBS News/NYT/YouGov,2014-10-01,1244.0,3.0,24.0,65.0,Oklahoma,2014,Senate
+Sooner Poll/News 9/News on 6*,2014-09-29,400.0,4.9,28.0,56.0,Oklahoma,2014,Senate
+Sooner Poll/News 9/News on 6*,2014-08-30,603.0,4.0,28.0,58.0,Oklahoma,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,821.0,5.0,28.0,61.0,Oklahoma,2014,Senate
+CBS News/NYT/YouGov,2014-07-24,,4.7,34.0,57.0,Oklahoma,2014,Senate
+rcp_average,,,,28.7,60.0,Oklahoma,2014,Senate
+rcp_average,2014-10-27,,,49.0,30.0,Oregon,2014,Senate
+The Oregonian/Elway,2014-10-27,403.0,5.0,53.0,32.0,Oregon,2014,Senate
+SurveyUSA,2014-10-27,552.0,4.2,51.0,39.0,Oregon,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,1421.0,4.0,49.0,30.0,Oregon,2014,Senate
+rcp_average,2014-10-27,,,53.0,32.0,Oregon,2014,Senate
+The Oregonian/Elway,2014-10-27,403.0,5.0,51.0,39.0,Oregon,2014,Senate
+SurveyUSA,2014-10-27,552.0,4.2,53.0,32.0,Oregon,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,1421.0,4.0,52.0,39.0,Oregon,2014,Senate
+SurveyUSA,2014-10-19,561.0,4.2,52.0,32.0,Oregon,2014,Senate
+CBS News/NYT/YouGov,2014-10-01,1508.0,3.0,42.0,34.0,Oregon,2014,Senate
+SurveyUSA,2014-09-24,568.0,4.2,48.0,35.0,Oregon,2014,Senate
+The Polling Company (R)*,2014-09-11,600.0,4.0,51.0,39.0,Oregon,2014,Senate
+Rasmussen Reports,2014-09-03,750.0,4.0,52.0,33.0,Oregon,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,1541.0,4.0,55.0,41.0,Oregon,2014,Senate
+SurveyUSA,2014-08-05,564.0,4.2,50.0,32.0,Oregon,2014,Senate
+CBS News/NYT/YouGov,2014-07-24,,2.6,50.0,36.0,Oregon,2014,Senate
+SurveyUSA,2014-06-09,560.0,4.2,47.0,37.0,Oregon,2014,Senate
+PPP (D),2014-05-27,,3.2,41.0,45.0,Oregon,2014,Senate
+Rasmussen Reports,2014-05-22,750.0,4.0,46.0,34.0,Oregon,2014,Senate
+rcp_average,2014-10-23,,,63.0,23.0,Rhode Island,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,866.0,6.0,65.0,20.0,Rhode Island,2014,Senate
+Rasmussen Reports,2014-09-25,750.0,4.0,61.0,26.0,Rhode Island,2014,Senate
+CBS News/NYT/YouGov,2014-10-01,724.0,4.0,64.0,22.0,Rhode Island,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,764.0,4.0,52.0,32.0,Rhode Island,2014,Senate
+rcp_average,,,,63.0,23.0,Rhode Island,2014,Senate
+rcp_average,2014-10-23,,,28.3,46.0,South Carolina,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,1566.0,4.0,28.0,43.0,South Carolina,2014,Senate
+Palmetto Politics Poll/VSS*,2014-10-19,917.0,3.2,29.0,49.0,South Carolina,2014,Senate
+Winthrop*,2014-09-28,1082.0,3.0,28.0,46.0,South Carolina,2014,Senate
+CBS News/NYT/YouGov,2014-10-01,2663.0,2.0,27.0,44.0,South Carolina,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,833.0,5.0,29.0,42.0,South Carolina,2014,Senate
+Palmetto Politics Poll/VSS*,2014-07-20,650.0,3.8,33.0,45.0,South Carolina,2014,Senate
+CBS News/NYT/YouGov,2014-07-24,,5.4,38.0,51.0,South Carolina,2014,Senate
+Rasmussen Reports,2014-07-10,750.0,4.0,30.0,49.0,South Carolina,2014,Senate
+rcp_average,,,,28.3,46.0,South Carolina,2014,Senate
+rcp_average,2014-10-26,,,30.0,42.2,South Dakota,2014,Senate
+Rasmussen Reports,2014-10-26,908.0,3.0,31.0,45.0,South Dakota,2014,Senate
+SurveyUSA*,2014-10-26,611.0,4.0,32.0,43.0,South Dakota,2014,Senate
+Argus Leader/Mason-Dixon*,2014-10-23,800.0,3.5,33.0,42.0,South Dakota,2014,Senate
+NBC News/Marist*,2014-10-23,730.0,3.6,29.0,43.0,South Dakota,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,527.0,8.0,25.0,38.0,South Dakota,2014,Senate
+Harper (R)*,2014-10-11,630.0,3.9,33.0,37.0,South Dakota,2014,Senate
+SurveyUSA*,2014-10-05,616.0,4.0,28.0,35.0,South Dakota,2014,Senate
+CBS News/NYT/YouGov,2014-10-01,382.0,7.0,27.0,42.0,South Dakota,2014,Senate
+Nielson Brothers*,2014-09-25,647.0,3.2,26.0,39.0,South Dakota,2014,Senate
+SurveyUSA*,2014-09-07,510.0,4.4,28.0,39.0,South Dakota,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,526.0,6.0,29.0,43.0,South Dakota,2014,Senate
+Nielson Brothers*,2014-07-28,578.0,4.0,30.0,43.0,South Dakota,2014,Senate
+Rasmussen Reports,2014-06-05,750.0,4.0,29.0,44.0,South Dakota,2014,Senate
+SurveyUSA*,2014-05-10,504.0,4.5,30.0,44.0,South Dakota,2014,Senate
+rcp_average,,,,30.0,42.2,South Dakota,2014,Senate
+rcp_average,2014-10-23,,,32.5,51.0,Tennessee,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,974.0,5.0,33.0,55.0,Tennessee,2014,Senate
+Rasmussen Reports,2014-08-12,750.0,4.0,32.0,47.0,Tennessee,2014,Senate
+CBS News/NYT/YouGov,2014-10-01,1007.0,4.0,32.0,53.0,Tennessee,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,1056.0,4.0,32.0,47.0,Tennessee,2014,Senate
+CBS News/NYT/YouGov,2014-07-24,,5.4,33.0,48.0,Tennessee,2014,Senate
+Rasmussen Reports,2014-04-30,750.0,4.0,25.0,51.0,Tennessee,2014,Senate
+rcp_average,,,,32.5,51.0,Tennessee,2014,Senate
+rcp_average,2014-10-23,,,31.3,53.0,Texas,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,3987.0,3.0,35.0,57.0,Texas,2014,Senate
+UT/Texas Tribune*,2014-10-19,866.0,3.3,31.0,57.0,Texas,2014,Senate
+Rasmussen Reports,2014-10-02,840.0,3.5,29.0,50.0,Texas,2014,Senate
+Texas Lyceum*,2014-09-25,666.0,3.8,30.0,48.0,Texas,2014,Senate
+CBS News/NYT/YouGov,2014-10-01,4177.0,2.0,35.0,55.0,Texas,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,4189.0,2.0,34.0,55.0,Texas,2014,Senate
+Rasmussen Reports,2014-08-05,850.0,3.0,29.0,47.0,Texas,2014,Senate
+CBS News/NYT/YouGov,2014-07-24,,3.7,38.0,55.0,Texas,2014,Senate
+UT/Texas Tribune*,2014-06-08,,2.8,25.0,36.0,Texas,2014,Senate
+PPP (D),2014-04-13,,4.1,32.0,49.0,Texas,2014,Senate
+rcp_average,,,,31.3,53.0,Texas,2014,Senate
+rcp_average,2014-10-29,,,48.5,38.8,Virginia,2014,Senate
+Christopher Newport Univ.*,2014-10-29,634.0,3.9,51.0,44.0,Virginia,2014,Senate
+Roanoke College*,2014-10-25,738.0,3.6,47.0,35.0,Virginia,2014,Senate
+CBS News/NYT/YouGov*,2014-10-23,1605.0,4.0,49.0,39.0,Virginia,2014,Senate
+Univ. of Mary Washington*,2014-10-06,444.0,5.3,47.0,37.0,Virginia,2014,Senate
+Christopher Newport Univ.*,2014-10-05,690.0,3.7,51.0,39.0,Virginia,2014,Senate
+CBS News/NYT/YouGov*,2014-10-01,1656.0,3.0,51.0,39.0,Virginia,2014,Senate
+PPP (D),2014-09-23,625.0,3.9,49.0,37.0,Virginia,2014,Senate
+Quinnipiac,2014-09-22,1010.0,3.1,50.0,41.0,Virginia,2014,Senate
+Roanoke College*,2014-09-19,630.0,3.9,49.0,29.0,Virginia,2014,Senate
+Christopher Newport Univ.*,2014-09-07,713.0,3.7,53.0,31.0,Virginia,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,1635.0,3.0,51.0,39.0,Virginia,2014,Senate
+Hampton* University,2014-07-30,804.0,2.9,55.0,32.0,Virginia,2014,Senate
+CBS News/NYT/YouGov,2014-07-24,,3.2,53.0,43.0,Virginia,2014,Senate
+Roanoke College*,2014-07-19,,4.2,47.0,22.0,Virginia,2014,Senate
+Rasmussen Reports,2014-06-12,750.0,4.0,53.0,36.0,Virginia,2014,Senate
+Quinnipiac*,2014-03-24,,2.7,46.0,31.0,Virginia,2014,Senate
+Roanoke College,2014-02-28,,3.9,56.0,29.0,Virginia,2014,Senate
+Rasmussen Reports,2014-01-21,1000.0,3.0,51.0,37.0,Virginia,2014,Senate
+Christopher Newport Univ.,2014-01-22,,3.1,50.0,30.0,Virginia,2014,Senate
+Roanoke College,2014-01-17,,4.2,50.0,21.0,Virginia,2014,Senate
+WFB/The Polling Company (R),2014-11-20,,4.0,51.0,33.0,Virginia,2014,Senate
+rcp_average,,,,48.5,38.8,Virginia,2014,Senate
+rcp_average,2014-10-23,,,36.7,53.3,West Virginia,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,877.0,5.0,34.0,56.0,West Virginia,2014,Senate
+Rasmussen Reports,2014-10-01,750.0,4.0,39.0,50.0,West Virginia,2014,Senate
+The West Virginia Poll,2014-08-23,401.0,4.9,37.0,54.0,West Virginia,2014,Senate
+CBS News/NYT/YouGov,2014-10-01,1066.0,4.0,33.0,56.0,West Virginia,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,1284.0,4.0,32.0,55.0,West Virginia,2014,Senate
+Rasmussen Reports,2014-08-20,750.0,4.0,33.0,50.0,West Virginia,2014,Senate
+CBS News/NYT/YouGov,2014-07-24,,2.7,43.0,51.0,West Virginia,2014,Senate
+The West Virginia Poll,2014-05-22,400.0,4.9,38.0,49.0,West Virginia,2014,Senate
+Rasmussen Reports,2014-05-15,750.0,4.0,39.0,48.0,West Virginia,2014,Senate
+Rasmussen Reports,2014-02-20,500.0,4.5,35.0,49.0,West Virginia,2014,Senate
+PPP (D),2014-09-22,,2.9,36.0,50.0,West Virginia,2014,Senate
+The West Virginia Poll,2014-08-22,,4.9,40.0,45.0,West Virginia,2014,Senate
+rcp_average,,,,36.7,53.3,West Virginia,2014,Senate
+rcp_average,2014-10-23,,,27.0,65.0,Wyoming,2014,Senate
+CBS News/NYT/YouGov,2014-10-23,258.0,11.0,27.0,67.0,Wyoming,2014,Senate
+Rasmussen Reports,2014-08-21,700.0,4.0,27.0,63.0,Wyoming,2014,Senate
+CBS News/NYT/YouGov,2014-10-01,264.0,7.0,17.0,75.0,Wyoming,2014,Senate
+CBS News/NYT/YouGov,2014-09-02,350.0,8.0,21.0,66.0,Wyoming,2014,Senate
+CBS News/NYT/YouGov,2014-07-24,,5.1,23.0,68.0,Wyoming,2014,Senate
+rcp_average,,,,27.0,65.0,Wyoming,2014,Senate

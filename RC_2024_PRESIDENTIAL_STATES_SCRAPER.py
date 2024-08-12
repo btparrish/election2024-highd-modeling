@@ -146,3 +146,5 @@ for state, url in state_urls.items():
     
 all_state_df = pd.concat(all_state_dataframe, ignore_index=True)
 
+
+print(all_state_df.info())

@@ -81,5 +81,3 @@ data_rows = list(zip_longest(pollster_data, date_data, sample_data, dvalue_data,
 df = pd.DataFrame(data_rows, columns =['Pollster', 'Date', 'Samples', 'dvalue', 'rvalue'])
 
 df = df.drop_duplicates().sort_values('Pollster')
-print(df.to_string(index=False))
-print(df.shape)
