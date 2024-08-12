@@ -537,8 +537,8 @@ def collection(url, state, type, year):
                 month1 = int(match.group(1))
                 month2 = int(match.group(3))
                 if year == 2024 and month1 > 8 and month2 > 8 and fuck == 0:
-                            #year_flip += 1
-                            #fuck += 1
+                            year_flip += 1
+                            fuck += 1
                 if clockstart == 0 and a == 0 and b == 0:  #Clock intitialization...write a into memory
                     if month1 < month2:
                         month = month1
